@@ -160,21 +160,6 @@ export default function Home() {
     }
   };
 
-  const handleSearchStart = async (bank: BankInfo, startIndex: number) => {
-    setLoading(true);
-    try {
-      const questions = await loadQuestions(bank.fileName);
-      // Start from the matched question
-      const ordered = questions.slice(startIndex);
-      setBank(bank, questions, ordered, 'sequential');
-      navigate('/practice');
-    } catch {
-      alert('加载题库失败');
-    } finally {
-      setLoading(false);
-    }
-  };
-
   const highlightText = (text: string, kw: string) => {
     if (!kw.trim()) return text;
     const regex = new RegExp(`(${kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
@@ -270,18 +255,35 @@ export default function Home() {
                   找到 {searchResults.length} 道匹配题目
                 </Text>
                 <div className="search-list">
-                  {searchResults.map((r) => (
-                    <div
-                      key={r.question.questionId}
-                      className="search-item"
-                      onClick={() => handleSearchStart(r.bank, r.index)}
-                    >
-                      <span className="search-item-bank">{r.bank.name}</span>
-                      <span className="search-item-text">
-                        {highlightText(r.question.question, search.trim())}
-                      </span>
-                    </div>
-                  ))}
+                  {searchResults.map((r) => {
+                    const correctOpt = r.question.options.find((o) => o.label === r.question.answer);
+                    return (
+                      <div
+                        key={r.question.questionId}
+                        className="search-item"
+                      >
+                        <div className="search-item-header">
+                          <span className="search-item-bank">{r.bank.name}</span>
+                          <span className="search-item-answer">
+                            答案: {r.question.answer}.{correctOpt?.text || ''}
+                          </span>
+                        </div>
+                        <div className="search-item-text">
+                          {highlightText(r.question.question, search.trim())}
+                        </div>
+                        <div className="search-item-options">
+                          {r.question.options.map((opt) => (
+                            <span
+                              key={opt.label}
+                              className={`search-option ${opt.label === r.question.answer ? 'correct' : ''}`}
+                            >
+                              {opt.label}. {opt.text}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    );
+                  })}
                 </div>
               </>
             )}
