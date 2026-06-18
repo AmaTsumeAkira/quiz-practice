@@ -1,8 +1,8 @@
-import { useState, useMemo, useEffect, useRef } from 'react';
+import { useState, useMemo, useEffect, useRef, useCallback } from 'react';
 import { Card, Radio, Button, Typography, Input, Statistic, Row, Col } from 'antd';
 import { SearchOutlined } from '@ant-design/icons';
 import { useNavigate } from 'react-router-dom';
-import { BANK_LIST, loadQuestions, getOrderedQuestions, loadWrongIds, loadBookmarkIds } from '../utils';
+import { BANK_LIST, loadQuestions, getOrderedQuestions, loadWrongIds, loadBookmarkIds, toggleBookmark } from '../utils';
 import type { PracticeMode, BankInfo, Question } from '../types';
 import { useQuiz } from '../context/QuizContext';
 
@@ -49,10 +49,27 @@ export default function Home() {
   const [search, setSearch] = useState('');
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [searching, setSearching] = useState(false);
+  const [bookmarks, setBookmarks] = useState<Map<string, Set<string>>>(new Map());
   const allQuestions = useRef<Map<string, Question[]>>(new Map());
   const searchTimer = useRef<ReturnType<typeof setTimeout>>(null);
   const navigate = useNavigate();
   const { setBank, answers } = useQuiz();
+
+  const handleToggleBookmark = useCallback((bankId: string, questionId: string) => {
+    toggleBookmark(bankId, questionId);
+    setBookmarks((prev) => {
+      const next = new Map(prev);
+      const set = new Set(next.get(bankId) || []);
+      if (set.has(questionId)) set.delete(questionId);
+      else set.add(questionId);
+      next.set(bankId, set);
+      return next;
+    });
+  }, []);
+
+  const isBookmarked = useCallback((bankId: string, questionId: string) => {
+    return bookmarks.get(bankId)?.has(questionId) || loadBookmarkIds(bankId).has(questionId);
+  }, [bookmarks]);
 
   const savedProgress = useMemo(() => getSavedProgressInfo(), []);
   const canRestore = hasSavedProgress();
@@ -267,6 +284,15 @@ export default function Home() {
                           <span className="search-item-answer">
                             答案: {r.question.answer}.{correctOpt?.text || ''}
                           </span>
+                          <button
+                            className={`bookmark-btn-small ${isBookmarked(r.bank.id, r.question.questionId) ? 'active' : ''}`}
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              handleToggleBookmark(r.bank.id, r.question.questionId);
+                            }}
+                          >
+                            {isBookmarked(r.bank.id, r.question.questionId) ? '★' : '☆'}
+                          </button>
                         </div>
                         <div className="search-item-text">
                           {highlightText(r.question.question, search.trim())}

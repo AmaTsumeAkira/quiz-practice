@@ -1,5 +1,5 @@
 import { useCallback, useMemo, useState, useRef, useEffect } from 'react';
-import { Button, Typography, Result, Input } from 'antd';
+import { Button, Typography, Result, Input, Progress } from 'antd';
 import { ArrowLeftOutlined, SearchOutlined, CheckCircleOutlined } from '@ant-design/icons';
 import { useNavigate } from 'react-router-dom';
 import { useQuiz } from '../context/QuizContext';
@@ -30,11 +30,13 @@ export default function Practice() {
   const [showSearch, setShowSearch] = useState(false);
   const [showComplete, setShowComplete] = useState(false);
   const touchStartX = useRef(0);
+  const mainRef = useRef<HTMLDivElement>(null);
 
   const question = orderedQuestions[currentIndex];
   const total = orderedQuestions.length;
   const answeredCount = Object.keys(answers).length;
   const allAnswered = answeredCount === total;
+  const progressPercent = total > 0 ? Math.round((answeredCount / total) * 100) : 0;
 
   const stats = useMemo(() => {
     let correct = 0;
@@ -56,7 +58,6 @@ export default function Practice() {
       submitAnswer(question.questionId, answer);
       if (answer === question.answer) {
         removeWrongId(bank.id, question.questionId);
-        // Auto-advance to next question after correct answer
         setTimeout(() => {
           if (currentIndex < total - 1) {
             setCurrentIndex(currentIndex + 1);
@@ -86,7 +87,6 @@ export default function Practice() {
 
   const handleSubmitAll = useCallback(() => {
     if (!bank) return;
-    // Only process answered questions - don't mark unanswered as wrong
     orderedQuestions.forEach((q) => {
       const userAns = answers[q.questionId];
       if (userAns) {
@@ -110,6 +110,14 @@ export default function Practice() {
       return next;
     });
   }, [question, bank]);
+
+  // Scroll to top on question change
+  useEffect(() => {
+    if (mainRef.current) {
+      mainRef.current.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, [currentIndex]);
 
   // Touch swipe for mobile
   const handleTouchStart = useCallback((e: React.TouchEvent) => {
@@ -184,7 +192,6 @@ export default function Practice() {
 
   if (!question) return null;
 
-  // Filter by search
   const displayIndex = searchText.trim()
     ? orderedQuestions.findIndex((q) => q.questionId === question.questionId)
     : currentIndex;
@@ -209,6 +216,16 @@ export default function Practice() {
         </span>
       </div>
 
+      <div className="progress-bar-wrap">
+        <Progress
+          percent={progressPercent}
+          size="small"
+          showInfo={false}
+          strokeColor="var(--primary)"
+        />
+        <span className="progress-bar-text">已答 {answeredCount}/{total}</span>
+      </div>
+
       {showSearch && (
         <Input
           placeholder="搜索题目关键词..."
@@ -231,6 +248,7 @@ export default function Practice() {
 
       <div
         className="practice-body"
+        ref={mainRef}
         onTouchStart={handleTouchStart}
         onTouchEnd={handleTouchEnd}
       >

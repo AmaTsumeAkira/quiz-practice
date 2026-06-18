@@ -96,6 +96,23 @@ body {
   white-space: nowrap;
 }
 
+.progress-bar-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.progress-bar-wrap .ant-progress {
+  flex: 1;
+}
+
+.progress-bar-text {
+  font-size: 12px;
+  color: var(--text-secondary);
+  white-space: nowrap;
+}
+
 .practice-body {
   display: flex;
   gap: 16px;
@@ -183,6 +200,26 @@ body {
 }
 
 .bookmark-btn.active {
+  color: #faad14;
+}
+
+.bookmark-btn-small {
+  background: none;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+  color: #ccc;
+  transition: color 0.15s;
+  padding: 0 2px;
+  line-height: 1;
+  margin-left: auto;
+}
+
+.bookmark-btn-small:hover {
+  color: #faad14;
+}
+
+.bookmark-btn-small.active {
   color: #faad14;
 }
 
