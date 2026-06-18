@@ -1,8 +1,9 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
 import { Card, Radio, Button, Typography, Input, Statistic, Row, Col } from 'antd';
+import { SearchOutlined } from '@ant-design/icons';
 import { useNavigate } from 'react-router-dom';
 import { BANK_LIST, loadQuestions, getOrderedQuestions, loadWrongIds, loadBookmarkIds } from '../utils';
-import type { PracticeMode, BankInfo } from '../types';
+import type { PracticeMode, BankInfo, Question } from '../types';
 import { useQuiz } from '../context/QuizContext';
 
 const { Title, Text } = Typography;
@@ -35,11 +36,21 @@ function getSavedProgressInfo(): { bankName: string; answered: number; total: nu
   }
 }
 
+interface SearchResult {
+  bank: BankInfo;
+  question: Question;
+  index: number;
+}
+
 export default function Home() {
   const [selectedBank, setSelectedBank] = useState<BankInfo | null>(null);
   const [mode, setMode] = useState<PracticeMode>('sequential');
   const [loading, setLoading] = useState(false);
   const [search, setSearch] = useState('');
+  const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
+  const [searching, setSearching] = useState(false);
+  const allQuestions = useRef<Map<string, Question[]>>(new Map());
+  const searchTimer = useRef<ReturnType<typeof setTimeout>>(null);
   const navigate = useNavigate();
   const { setBank, answers } = useQuiz();
 
@@ -57,6 +68,53 @@ export default function Home() {
     };
   }, [selectedBank, answers]);
 
+  // Load all questions on mount for search
+  useEffect(() => {
+    let cancelled = false;
+    async function loadAll() {
+      for (const bank of BANK_LIST) {
+        if (cancelled) return;
+        try {
+          const qs = await loadQuestions(bank.fileName);
+          if (!cancelled) allQuestions.current.set(bank.id, qs);
+        } catch {
+          // ignore
+        }
+      }
+    }
+    loadAll();
+    return () => { cancelled = true; };
+  }, []);
+
+  // Debounced search
+  useEffect(() => {
+    if (searchTimer.current) clearTimeout(searchTimer.current);
+    if (!search.trim()) {
+      setSearchResults([]);
+      setSearching(false);
+      return;
+    }
+    setSearching(true);
+    searchTimer.current = setTimeout(() => {
+      const kw = search.trim().toLowerCase();
+      const results: SearchResult[] = [];
+      for (const bank of BANK_LIST) {
+        const qs = allQuestions.current.get(bank.id) || [];
+        qs.forEach((q, i) => {
+          if (
+            q.question.toLowerCase().includes(kw) ||
+            q.options.some((o) => o.text.toLowerCase().includes(kw))
+          ) {
+            results.push({ bank, question: q, index: i });
+          }
+        });
+      }
+      setSearchResults(results);
+      setSearching(false);
+    }, 300);
+    return () => { if (searchTimer.current) clearTimeout(searchTimer.current); };
+  }, [search]);
+
   const handleStart = async () => {
     if (!selectedBank) return;
     setLoading(true);
@@ -65,19 +123,6 @@ export default function Home() {
       const wrongIds = loadWrongIds(selectedBank.id);
       const bookmarkIds = loadBookmarkIds(selectedBank.id);
       let ordered = getOrderedQuestions(questions, mode, wrongIds, bookmarkIds);
-      if (search.trim()) {
-        const kw = search.trim().toLowerCase();
-        ordered = ordered.filter(
-          (q) =>
-            q.question.toLowerCase().includes(kw) ||
-            q.options.some((o) => o.text.toLowerCase().includes(kw))
-        );
-      }
-      if (ordered.length === 0) {
-        alert('没有匹配的题目');
-        setLoading(false);
-        return;
-      }
       setBank(selectedBank, questions, ordered, mode);
       navigate('/practice');
     } catch {
@@ -107,13 +152,36 @@ export default function Home() {
         return;
       }
       setBank(saved.bank, questions, ordered, saved.mode || 'sequential');
-      // Restore answers
       navigate('/practice');
     } catch {
       alert('恢复进度失败');
     } finally {
       setLoading(false);
     }
+  };
+
+  const handleSearchStart = async (bank: BankInfo, startIndex: number) => {
+    setLoading(true);
+    try {
+      const questions = await loadQuestions(bank.fileName);
+      // Start from the matched question
+      const ordered = questions.slice(startIndex);
+      setBank(bank, questions, ordered, 'sequential');
+      navigate('/practice');
+    } catch {
+      alert('加载题库失败');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const highlightText = (text: string, kw: string) => {
+    if (!kw.trim()) return text;
+    const regex = new RegExp(`(${kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+    const parts = text.split(regex);
+    return parts.map((part, i) =>
+      regex.test(part) ? <mark key={i}>{part}</mark> : part
+    );
   };
 
   return (
@@ -178,42 +246,79 @@ export default function Home() {
         )}
 
         <Input
-          placeholder="搜索题目关键词..."
+          placeholder="搜索题目关键词，直接查看结果..."
+          prefix={<SearchOutlined />}
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           allowClear
           style={{ marginBottom: 12 }}
         />
 
-        <Button
-          type="primary"
-          size="large"
-          block
-          disabled={!selectedBank}
-          loading={loading}
-          onClick={handleStart}
-        >
-          开始练习
-        </Button>
+        {search.trim() ? (
+          <div className="search-results">
+            {searching ? (
+              <Text type="secondary" style={{ display: 'block', textAlign: 'center', padding: 20 }}>
+                搜索中...
+              </Text>
+            ) : searchResults.length === 0 ? (
+              <Text type="secondary" style={{ display: 'block', textAlign: 'center', padding: 20 }}>
+                没有找到匹配的题目
+              </Text>
+            ) : (
+              <>
+                <Text type="secondary" style={{ display: 'block', marginBottom: 8, fontSize: 13 }}>
+                  找到 {searchResults.length} 道匹配题目
+                </Text>
+                <div className="search-list">
+                  {searchResults.map((r) => (
+                    <div
+                      key={r.question.questionId}
+                      className="search-item"
+                      onClick={() => handleSearchStart(r.bank, r.index)}
+                    >
+                      <span className="search-item-bank">{r.bank.name}</span>
+                      <span className="search-item-text">
+                        {highlightText(r.question.question, search.trim())}
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              </>
+            )}
+          </div>
+        ) : (
+          <>
+            <Button
+              type="primary"
+              size="large"
+              block
+              disabled={!selectedBank}
+              loading={loading}
+              onClick={handleStart}
+            >
+              开始练习
+            </Button>
 
-        {stats && (
-          <Row gutter={12} style={{ marginTop: 16 }}>
-            <Col span={8}>
-              <Card size="small" className="home-card">
-                <Statistic title="总题数" value={stats.total} valueStyle={{ fontSize: 18 }} />
-              </Card>
-            </Col>
-            <Col span={8}>
-              <Card size="small" className="home-card">
-                <Statistic title="错题" value={stats.wrong} valueStyle={{ fontSize: 18, color: stats.wrong > 0 ? '#ff4d4f' : undefined }} />
-              </Card>
-            </Col>
-            <Col span={8}>
-              <Card size="small" className="home-card">
-                <Statistic title="收藏" value={stats.bookmark} valueStyle={{ fontSize: 18, color: stats.bookmark > 0 ? '#faad14' : undefined }} />
-              </Card>
-            </Col>
-          </Row>
+            {stats && (
+              <Row gutter={12} style={{ marginTop: 16 }}>
+                <Col span={8}>
+                  <Card size="small" className="home-card">
+                    <Statistic title="总题数" value={stats.total} valueStyle={{ fontSize: 18 }} />
+                  </Card>
+                </Col>
+                <Col span={8}>
+                  <Card size="small" className="home-card">
+                    <Statistic title="错题" value={stats.wrong} valueStyle={{ fontSize: 18, color: stats.wrong > 0 ? '#ff4d4f' : undefined }} />
+                  </Card>
+                </Col>
+                <Col span={8}>
+                  <Card size="small" className="home-card">
+                    <Statistic title="收藏" value={stats.bookmark} valueStyle={{ fontSize: 18, color: stats.bookmark > 0 ? '#faad14' : undefined }} />
+                  </Card>
+                </Col>
+              </Row>
+            )}
+          </>
         )}
       </div>
     </div>
