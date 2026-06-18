@@ -6,7 +6,8 @@ export const BANK_LIST: BankInfo[] = [
 ];
 
 export async function loadQuestions(fileName: string): Promise<Question[]> {
-  const res = await fetch(`/data/${fileName}`);
+  const base = import.meta.env.BASE_URL;
+  const res = await fetch(`${base}data/${fileName}`);
   return res.json();
 }
 
