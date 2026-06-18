@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import { ConfigProvider, Layout, Typography } from 'antd';
 import { QuizProvider } from './context/QuizContext';
 import Home from './pages/Home';
@@ -35,11 +35,11 @@ export default function App() {
         },
       }}
     >
-      <BrowserRouter>
+      <HashRouter>
         <QuizProvider>
           <AppLayout />
         </QuizProvider>
-      </BrowserRouter>
+      </HashRouter>
     </ConfigProvider>
   );
 }

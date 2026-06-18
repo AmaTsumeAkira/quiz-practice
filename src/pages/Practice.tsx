@@ -1,5 +1,5 @@
 import { useEffect, useCallback } from 'react';
-import { Button, Typography } from 'antd';
+import { Button, Typography, Result } from 'antd';
 import { ArrowLeftOutlined, ArrowRightOutlined, ReloadOutlined } from '@ant-design/icons';
 import { useNavigate } from 'react-router-dom';
 import { useQuiz } from '../context/QuizContext';
@@ -23,9 +23,16 @@ export default function Practice() {
     reset,
   } = useQuiz();
 
-  useEffect(() => {
-    if (!bank) navigate('/');
-  }, [bank, navigate]);
+  if (!bank || orderedQuestions.length === 0) {
+    return (
+      <Result
+        status="warning"
+        title="没有选择题库"
+        subTitle="请先返回首页选择题库"
+        extra={<Button type="primary" onClick={() => navigate('/')}>返回首页</Button>}
+      />
+    );
+  }
 
   const question = orderedQuestions[currentIndex];
   const total = orderedQuestions.length;
@@ -55,7 +62,6 @@ export default function Practice() {
 
   const handleSubmitAll = useCallback(() => {
     if (!bank) return;
-    // Mark all unanswered as wrong or correct
     orderedQuestions.forEach((q) => {
       const userAns = answers[q.questionId];
       if (!userAns) {
@@ -90,7 +96,7 @@ export default function Practice() {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [handleKeyDown]);
 
-  if (!bank || !question) return null;
+  if (!question) return null;
 
   const answeredCount = Object.keys(answers).length;
 
