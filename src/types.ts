@@ -20,4 +20,4 @@ export interface BankInfo {
   count: number;
 }
 
-export type PracticeMode = 'sequential' | 'shuffle' | 'wrong';
+export type PracticeMode = 'sequential' | 'shuffle' | 'wrong' | 'bookmark';

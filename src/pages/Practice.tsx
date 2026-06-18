@@ -1,9 +1,9 @@
-import { useCallback } from 'react';
+import { useCallback, useMemo, useState } from 'react';
 import { Button, Typography, Result } from 'antd';
 import { ArrowLeftOutlined } from '@ant-design/icons';
 import { useNavigate } from 'react-router-dom';
 import { useQuiz } from '../context/QuizContext';
-import { addWrongId, removeWrongId } from '../utils';
+import { addWrongId, removeWrongId, toggleBookmark, loadBookmarkIds } from '../utils';
 import QuestionCard from '../components/QuestionCard';
 import AnswerSheet from '../components/AnswerSheet';
 
@@ -23,9 +23,26 @@ export default function Practice() {
     reset,
   } = useQuiz();
 
+  const [bookmarks, setBookmarks] = useState<Set<string>>(() =>
+    bank ? loadBookmarkIds(bank.id) : new Set()
+  );
+
   const question = orderedQuestions[currentIndex];
   const total = orderedQuestions.length;
   const answeredCount = Object.keys(answers).length;
+
+  const stats = useMemo(() => {
+    let correct = 0;
+    let wrong = 0;
+    for (const q of orderedQuestions) {
+      const ans = answers[q.questionId];
+      if (ans) {
+        if (ans === q.answer) correct++;
+        else wrong++;
+      }
+    }
+    return { correct, wrong, unanswered: total - correct - wrong };
+  }, [orderedQuestions, answers, total]);
 
   const handlePrev = useCallback(() => {
     if (currentIndex > 0) setCurrentIndex(currentIndex - 1);
@@ -68,6 +85,17 @@ export default function Practice() {
     toggleResult();
   }, [bank, orderedQuestions, answers, toggleResult]);
 
+  const handleToggleBookmark = useCallback(() => {
+    if (!question || !bank) return;
+    const isNowBookmarked = toggleBookmark(bank.id, question.questionId);
+    setBookmarks((prev) => {
+      const next = new Set(prev);
+      if (isNowBookmarked) next.add(question.questionId);
+      else next.delete(question.questionId);
+      return next;
+    });
+  }, [question, bank]);
+
   if (!bank || orderedQuestions.length === 0) {
     return (
       <Result
@@ -95,6 +123,15 @@ export default function Practice() {
         </span>
       </div>
 
+      {showResult && (
+        <div className="stats-bar">
+          <span className="stat-item">已答 {answeredCount}</span>
+          <span className="stat-item stat-correct">正确 {stats.correct}</span>
+          <span className="stat-item stat-wrong">错误 {stats.wrong}</span>
+          <span className="stat-item">正确率 {answeredCount > 0 ? Math.round((stats.correct / answeredCount) * 100) : 0}%</span>
+        </div>
+      )}
+
       <div className="practice-body">
         <div className="practice-main">
           <QuestionCard
@@ -102,22 +139,15 @@ export default function Practice() {
             index={currentIndex}
             userAnswer={answers[question.questionId] || ''}
             onAnswer={handleAnswer}
+            isBookmarked={bookmarks.has(question.questionId)}
+            onToggleBookmark={handleToggleBookmark}
           />
           <div className="practice-nav">
-            <Button
-              size="small"
-              disabled={currentIndex === 0}
-              onClick={handlePrev}
-            >
+            <Button size="small" disabled={currentIndex === 0} onClick={handlePrev}>
               上一题
             </Button>
             {!showResult ? (
-              <Button
-                size="small"
-                type="primary"
-                onClick={handleSubmitAll}
-                disabled={answeredCount === 0}
-              >
+              <Button size="small" type="primary" onClick={handleSubmitAll} disabled={answeredCount === 0}>
                 提交全部
               </Button>
             ) : (
@@ -125,11 +155,7 @@ export default function Practice() {
                 重新查看
               </Button>
             )}
-            <Button
-              size="small"
-              disabled={currentIndex === total - 1}
-              onClick={handleNext}
-            >
+            <Button size="small" disabled={currentIndex === total - 1} onClick={handleNext}>
               下一题
             </Button>
           </div>

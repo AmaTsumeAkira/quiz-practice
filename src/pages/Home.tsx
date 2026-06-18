@@ -1,7 +1,7 @@
-import { useState } from 'react';
-import { Card, Radio, Button, Typography } from 'antd';
+import { useState, useMemo } from 'react';
+import { Card, Radio, Button, Typography, Input, Statistic, Row, Col } from 'antd';
 import { useNavigate } from 'react-router-dom';
-import { BANK_LIST, loadQuestions, getOrderedQuestions, loadWrongIds } from '../utils';
+import { BANK_LIST, loadQuestions, getOrderedQuestions, loadWrongIds, loadBookmarkIds } from '../utils';
 import type { PracticeMode, BankInfo } from '../types';
 import { useQuiz } from '../context/QuizContext';
 
@@ -11,8 +11,20 @@ export default function Home() {
   const [selectedBank, setSelectedBank] = useState<BankInfo | null>(null);
   const [mode, setMode] = useState<PracticeMode>('sequential');
   const [loading, setLoading] = useState(false);
+  const [search, setSearch] = useState('');
   const navigate = useNavigate();
-  const { setBank } = useQuiz();
+  const { setBank, answers } = useQuiz();
+
+  const stats = useMemo(() => {
+    if (!selectedBank) return null;
+    const wrongIds = loadWrongIds(selectedBank.id);
+    const bookmarkIds = loadBookmarkIds(selectedBank.id);
+    return {
+      total: selectedBank.count,
+      wrong: wrongIds.size,
+      bookmark: bookmarkIds.size,
+    };
+  }, [selectedBank, answers]);
 
   const handleStart = async () => {
     if (!selectedBank) return;
@@ -20,9 +32,18 @@ export default function Home() {
     try {
       const questions = await loadQuestions(selectedBank.fileName);
       const wrongIds = loadWrongIds(selectedBank.id);
-      const ordered = getOrderedQuestions(questions, mode, wrongIds);
+      const bookmarkIds = loadBookmarkIds(selectedBank.id);
+      let ordered = getOrderedQuestions(questions, mode, wrongIds, bookmarkIds);
+      if (search.trim()) {
+        const kw = search.trim().toLowerCase();
+        ordered = ordered.filter(
+          (q) =>
+            q.question.toLowerCase().includes(kw) ||
+            q.options.some((o) => o.text.toLowerCase().includes(kw))
+        );
+      }
       if (ordered.length === 0) {
-        alert('当前没有错题可练习');
+        alert('没有匹配的题目');
         setLoading(false);
         return;
       }
@@ -38,7 +59,8 @@ export default function Home() {
   return (
     <div className="home">
       <div className="home-content">
-        <Title level={3} style={{ marginBottom: 32 }}>题库练习</Title>
+        <Title level={3} style={{ marginBottom: 24 }}>题库练习</Title>
+
         <Card title="选择题库" className="home-card">
           <Radio.Group
             value={selectedBank?.id}
@@ -64,8 +86,28 @@ export default function Home() {
             <Radio.Button value="sequential">顺序练习</Radio.Button>
             <Radio.Button value="shuffle">乱序练习</Radio.Button>
             <Radio.Button value="wrong">错题重练</Radio.Button>
+            <Radio.Button value="bookmark">收藏练习</Radio.Button>
           </Radio.Group>
         </Card>
+
+        {mode === 'wrong' && (
+          <Text type="secondary" style={{ display: 'block', marginBottom: 8, fontSize: 13 }}>
+            错题将从浏览器本地缓存中读取
+          </Text>
+        )}
+        {mode === 'bookmark' && (
+          <Text type="secondary" style={{ display: 'block', marginBottom: 8, fontSize: 13 }}>
+            收藏的题目将从浏览器本地缓存中读取
+          </Text>
+        )}
+
+        <Input
+          placeholder="搜索题目关键词..."
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          allowClear
+          style={{ marginBottom: 12 }}
+        />
 
         <Button
           type="primary"
@@ -74,15 +116,28 @@ export default function Home() {
           disabled={!selectedBank}
           loading={loading}
           onClick={handleStart}
-          style={{ marginTop: 16 }}
         >
           开始练习
         </Button>
 
-        {selectedBank && mode === 'wrong' && (
-          <Text type="secondary" style={{ display: 'block', marginTop: 12, textAlign: 'center' }}>
-            错题将从浏览器本地缓存中读取
-          </Text>
+        {stats && (
+          <Row gutter={12} style={{ marginTop: 16 }}>
+            <Col span={8}>
+              <Card size="small" className="home-card">
+                <Statistic title="总题数" value={stats.total} valueStyle={{ fontSize: 18 }} />
+              </Card>
+            </Col>
+            <Col span={8}>
+              <Card size="small" className="home-card">
+                <Statistic title="错题" value={stats.wrong} valueStyle={{ fontSize: 18, color: stats.wrong > 0 ? '#ff4d4f' : undefined }} />
+              </Card>
+            </Col>
+            <Col span={8}>
+              <Card size="small" className="home-card">
+                <Statistic title="收藏" value={stats.bookmark} valueStyle={{ fontSize: 18, color: stats.bookmark > 0 ? '#faad14' : undefined }} />
+              </Card>
+            </Col>
+          </Row>
         )}
       </div>
     </div>

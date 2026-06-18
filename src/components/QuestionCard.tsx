@@ -5,9 +5,18 @@ interface Props {
   index: number;
   userAnswer: string;
   onAnswer: (answer: string) => void;
+  isBookmarked: boolean;
+  onToggleBookmark: () => void;
 }
 
-export default function QuestionCard({ question, index, userAnswer, onAnswer }: Props) {
+export default function QuestionCard({
+  question,
+  index,
+  userAnswer,
+  onAnswer,
+  isBookmarked,
+  onToggleBookmark,
+}: Props) {
   const answered = !!userAnswer;
   const isCorrect = userAnswer === question.answer;
 
@@ -16,6 +25,13 @@ export default function QuestionCard({ question, index, userAnswer, onAnswer }: 
       <div className="question-header">
         <span className="question-index">{index + 1}.</span>
         <span className="question-type">{question.typeName}</span>
+        <button
+          className={`bookmark-btn ${isBookmarked ? 'active' : ''}`}
+          onClick={onToggleBookmark}
+          title={isBookmarked ? '取消收藏' : '收藏'}
+        >
+          {isBookmarked ? '★' : '☆'}
+        </button>
       </div>
       <div className="question-text">{question.question}</div>
       <div className="question-options">
