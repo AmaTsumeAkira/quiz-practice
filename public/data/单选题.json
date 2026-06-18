@@ -1,0 +1,9414 @@
+[
+  {
+    "questionId": "886063740",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1922年5月5日至10日，中国社会主义青年团第一次全国代表大会在（）召开，中国社会主义青年团宣告成立。",
+    "options": [
+      {
+        "label": "A",
+        "text": "广州"
+      },
+      {
+        "label": "B",
+        "text": "上海"
+      },
+      {
+        "label": "C",
+        "text": "北京"
+      },
+      {
+        "label": "D",
+        "text": "天津"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063741",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "大革命之所以失败，从客观方面来讲，是由于国民党内的反动集团发动了反革命政变。这些反动集团是指（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "吴佩孚集团、张作霖集团"
+      },
+      {
+        "label": "B",
+        "text": "廖仲恺集团、孙传芳集团"
+      },
+      {
+        "label": "C",
+        "text": "汪精卫集团、吴佩孚集团"
+      },
+      {
+        "label": "D",
+        "text": "蒋介石集团、汪精卫集团"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063742",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "标志十年内战的局面结束，国内和平基本实现，成为时局转换的枢纽的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中共瓦窑堡会议的召开"
+      },
+      {
+        "label": "B",
+        "text": "国民党五届三中全会的召开"
+      },
+      {
+        "label": "C",
+        "text": "西安事变的和平解决"
+      },
+      {
+        "label": "D",
+        "text": "蒋介石发表庐山谈话"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063743",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "大革命的失败，给中国共产党最深刻的教训是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "无产阶级必须掌握革命领导权和革命武装"
+      },
+      {
+        "label": "B",
+        "text": "要建立巩固的工农联盟"
+      },
+      {
+        "label": "C",
+        "text": "要警惕统一战线内部的野心家"
+      },
+      {
+        "label": "D",
+        "text": "要制定彻底的革命纲领"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063744",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "王明提出“对共产国际百分之百的忠诚，是中国革命走向胜利的唯—保证”。对于这句话理解错误的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "这是典型的教条主义言论"
+      },
+      {
+        "label": "B",
+        "text": "领导中国革命走向胜利需要了解中国革命的实际情况"
+      },
+      {
+        "label": "C",
+        "text": "王明的言论是正确的，只要跟随共产国际，中国革命就能够成功"
+      },
+      {
+        "label": "D",
+        "text": "从事革命工作要坚持实事求是、理论联系实际的原则"
+      }
+    ],
+    "answer": "C",
+    "verified": false
+  },
+  {
+    "questionId": "886063745",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1894年，孙中山在美国的檀香山创立的中国第一个革命组织是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "光复会"
+      },
+      {
+        "label": "B",
+        "text": "同盟会"
+      },
+      {
+        "label": "C",
+        "text": "兴中会"
+      },
+      {
+        "label": "D",
+        "text": "华兴会"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063746",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国共产党成立后，它所接受的指导思想是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "新三民主义"
+      },
+      {
+        "label": "B",
+        "text": "社会民主主义"
+      },
+      {
+        "label": "C",
+        "text": "无政府主义"
+      },
+      {
+        "label": "D",
+        "text": "马克思列宁主义"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063747",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中共一大在讨论实际工作计划时，决定首先集中精力组织（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "工人"
+      },
+      {
+        "label": "B",
+        "text": "官僚资产阶级"
+      },
+      {
+        "label": "C",
+        "text": "民族资产阶级"
+      },
+      {
+        "label": "D",
+        "text": "小资产阶级"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063748",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "洋务运动首先兴办的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "民用企业"
+      },
+      {
+        "label": "B",
+        "text": "军用工业"
+      },
+      {
+        "label": "C",
+        "text": "商业"
+      },
+      {
+        "label": "D",
+        "text": "农业"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063749",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "冯桂芬对洋务派兴办洋务事业的指导思想作出比较完整表述的著作是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《校邠庐抗议》"
+      },
+      {
+        "label": "B",
+        "text": "《星星之火，可以燎原》"
+      },
+      {
+        "label": "C",
+        "text": "《红旗》"
+      },
+      {
+        "label": "D",
+        "text": "《天朝田亩制度》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063750",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1921年7月23日，中国共产党第一次全国代表大会召开于（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "上海"
+      },
+      {
+        "label": "B",
+        "text": "湖南"
+      },
+      {
+        "label": "C",
+        "text": "北京"
+      },
+      {
+        "label": "D",
+        "text": "武汉"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063751",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1842 年，中英《南京条约》规定开放的通商口岸不包括（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "广州"
+      },
+      {
+        "label": "B",
+        "text": "福州"
+      },
+      {
+        "label": "C",
+        "text": "宁波"
+      },
+      {
+        "label": "D",
+        "text": "天津"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063752",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国人开始睁眼看世界是在（ ）以后。",
+    "options": [
+      {
+        "label": "A",
+        "text": "甲午战争"
+      },
+      {
+        "label": "B",
+        "text": "鸦片战争"
+      },
+      {
+        "label": "C",
+        "text": "中法战争"
+      },
+      {
+        "label": "D",
+        "text": "八国联军侵华战争"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063753",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "新文化运动兴起的标志是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "陈独秀在上海创办《青年杂志》"
+      },
+      {
+        "label": "B",
+        "text": "民主与科学口号的提出"
+      },
+      {
+        "label": "C",
+        "text": "蔡元培\"兼容并包\"办学方针的采用"
+      },
+      {
+        "label": "D",
+        "text": "李大钊发表《庶民的胜利》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063754",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "新文化运动时期，推动中国的知识分子将研究目光从资产阶级民主主义转向社会主义的事件是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "法国大革命"
+      },
+      {
+        "label": "B",
+        "text": "英国光荣革命"
+      },
+      {
+        "label": "C",
+        "text": "俄国十月革命"
+      },
+      {
+        "label": "D",
+        "text": "第一次世界大战"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063755",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "近代中国派遣第一批留学生是在（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "洋务运动时期"
+      },
+      {
+        "label": "B",
+        "text": "戊戌维新时期"
+      },
+      {
+        "label": "C",
+        "text": "清末\"新政\"时期"
+      },
+      {
+        "label": "D",
+        "text": "辛亥革命时期"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063756",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "维新运动的意义不包括()",
+    "options": [
+      {
+        "label": "A",
+        "text": "戊戌维新运动是一次爱国救亡运动"
+      },
+      {
+        "label": "B",
+        "text": "戊戌维新运动是一场资产阶级性质的政治改良运动"
+      },
+      {
+        "label": "C",
+        "text": "戊戌维新运动是一场思想启蒙运动"
+      },
+      {
+        "label": "D",
+        "text": "戊戌维新运动是一场自下而上的革命运动"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063757",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1935年，北平学生举行的抗日救亡运动是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "一二 三零运动"
+      },
+      {
+        "label": "B",
+        "text": "五四运动"
+      },
+      {
+        "label": "C",
+        "text": "五卅运动"
+      },
+      {
+        "label": "D",
+        "text": "一二 九运动"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063758",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "（   ）年是中国共产党成立100周年。中国共产党通过多种方式庆祝百年华诞。",
+    "options": [
+      {
+        "label": "A",
+        "text": "2011"
+      },
+      {
+        "label": "B",
+        "text": "2021"
+      },
+      {
+        "label": "C",
+        "text": "2019"
+      },
+      {
+        "label": "D",
+        "text": "2001"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063759",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "近代中国睁眼看世界的第一人是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "林则徐"
+      },
+      {
+        "label": "B",
+        "text": "魏源"
+      },
+      {
+        "label": "C",
+        "text": "郑观应"
+      },
+      {
+        "label": "D",
+        "text": "李鸿章"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063760",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "20世纪初，在民主革命思想传播中发表《猛回头》的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "李鸿章"
+      },
+      {
+        "label": "B",
+        "text": "董必武"
+      },
+      {
+        "label": "C",
+        "text": "陈天华"
+      },
+      {
+        "label": "D",
+        "text": "康有为"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063761",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "“五位一体” 总体布局不包括( )",
+    "options": [
+      {
+        "label": "A",
+        "text": "政治建设"
+      },
+      {
+        "label": "B",
+        "text": "文化建设"
+      },
+      {
+        "label": "C",
+        "text": "社会建设"
+      },
+      {
+        "label": "D",
+        "text": "法治建设"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063762",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "在中国大地上率先举起马克思主义旗帜的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "李大钊"
+      },
+      {
+        "label": "B",
+        "text": "陈独秀"
+      },
+      {
+        "label": "C",
+        "text": "张国焘"
+      },
+      {
+        "label": "D",
+        "text": "毛泽东"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063763",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中华民族的抗日战争共进行了（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "14年"
+      },
+      {
+        "label": "B",
+        "text": "15年"
+      },
+      {
+        "label": "C",
+        "text": "11年"
+      },
+      {
+        "label": "D",
+        "text": "10年"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063764",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "赵明19世纪60年代出生，在其30岁之前他经历了（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "鸦片战争"
+      },
+      {
+        "label": "B",
+        "text": "洋务运动"
+      },
+      {
+        "label": "C",
+        "text": "辛亥革命"
+      },
+      {
+        "label": "D",
+        "text": "清末新政"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063765",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "资本-帝国主义列强不能灭亡和瓜分近代中国的最根本原因是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中国人民不屈不挠的反侵略斗争"
+      },
+      {
+        "label": "B",
+        "text": "晚清政府的军事抵抗"
+      },
+      {
+        "label": "C",
+        "text": "资本-帝国主义列强之间的矛盾"
+      },
+      {
+        "label": "D",
+        "text": "资本-帝国主义的衰落"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063766",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1894年11月喊出了\"振兴中华\"这个时代最强音的人是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "洪秀全"
+      },
+      {
+        "label": "B",
+        "text": "严复"
+      },
+      {
+        "label": "C",
+        "text": "孙中山"
+      },
+      {
+        "label": "D",
+        "text": "康有为"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063767",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "香港、澳门的回归，标志着（ ）从科学构想变成现实。",
+    "options": [
+      {
+        "label": "A",
+        "text": "四个全面"
+      },
+      {
+        "label": "B",
+        "text": "依法治国"
+      },
+      {
+        "label": "C",
+        "text": "对外开放"
+      },
+      {
+        "label": "D",
+        "text": "一国两制"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063768",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国共产党在长期奋斗中构建起中国共产党人的精神谱系，锤炼出鲜明的政治品格。中国共产党的精神之源是（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "伟大建党精神"
+      },
+      {
+        "label": "B",
+        "text": "伟大奋斗精神"
+      },
+      {
+        "label": "C",
+        "text": "伟大团结精神"
+      },
+      {
+        "label": "D",
+        "text": "伟大创新精神"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063769",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1949年3月召开的（ ），毛泽东提出“\n两个务必\n”的思想。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中共六大"
+      },
+      {
+        "label": "B",
+        "text": "中共七大"
+      },
+      {
+        "label": "C",
+        "text": "中共七届二中全会"
+      },
+      {
+        "label": "D",
+        "text": "十一届三中全会"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063770",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1911年4月，资产阶级革命派发动的武装起义是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "惠州起义"
+      },
+      {
+        "label": "B",
+        "text": "河口起义"
+      },
+      {
+        "label": "C",
+        "text": "广州黄花岗起义"
+      },
+      {
+        "label": "D",
+        "text": "武昌起义"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063771",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "标志着以毛泽东为主要代表的马克思主义的正确路线在党内开始确立领导地位的事件是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "井冈山革命根据地的创建"
+      },
+      {
+        "label": "B",
+        "text": "毛泽东提出“枪杆子中夺政权的思想”"
+      },
+      {
+        "label": "C",
+        "text": "毛泽东提出“工农武装割据、武装夺取政权”的理论"
+      },
+      {
+        "label": "D",
+        "text": "遵义会议的成功召开"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063772",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国共产党历史上第一任领导人为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "李大钊"
+      },
+      {
+        "label": "B",
+        "text": "陈独秀"
+      },
+      {
+        "label": "C",
+        "text": "刘仁静"
+      },
+      {
+        "label": "D",
+        "text": "周佛海"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063773",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "新时代坚持和发展中国特色社会主义，根本动力仍然是全面深化改革开放。改革开放的鲜明特征和首要任务是（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "解放和发展生产力"
+      },
+      {
+        "label": "B",
+        "text": "形成更成熟更定型的制度"
+      },
+      {
+        "label": "C",
+        "text": "处理好政府和市场的关系"
+      },
+      {
+        "label": "D",
+        "text": "促进社会公平正义、增进人民福祉"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063774",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1937年8月，红军主力改编为国民革命军第八路军，八路军的总指挥是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "叶挺"
+      },
+      {
+        "label": "B",
+        "text": "叶剑英"
+      },
+      {
+        "label": "C",
+        "text": "朱德"
+      },
+      {
+        "label": "D",
+        "text": "彭德怀"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063775",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1931年11月，中华苏维埃第一次全国代表大会在江西省瑞金县叶坪村举行，成立了中华苏维埃共和国临时中央政府，当选主席的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "毛泽东"
+      },
+      {
+        "label": "B",
+        "text": "林伯渠"
+      },
+      {
+        "label": "C",
+        "text": "朱德"
+      },
+      {
+        "label": "D",
+        "text": "贺龙"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063776",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "日本在甲午战争后迫使清政府签订了（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《天津条约》"
+      },
+      {
+        "label": "B",
+        "text": "《北京条约》"
+      },
+      {
+        "label": "C",
+        "text": "《马关条约》"
+      },
+      {
+        "label": "D",
+        "text": "《辛丑条约》"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063777",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中华民族开始有了普遍的民族意识的觉醒是在（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中日甲午战争以后"
+      },
+      {
+        "label": "B",
+        "text": "第二次鸦片战争以后"
+      },
+      {
+        "label": "C",
+        "text": "第一次鸦片战争以后"
+      },
+      {
+        "label": "D",
+        "text": "中法战争以后"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063778",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "五四运动的中心由北京转移到上海后，运动的新特点是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "工人阶级首次登上政治舞台"
+      },
+      {
+        "label": "B",
+        "text": "商人罢市"
+      },
+      {
+        "label": "C",
+        "text": "学生大规模罢课"
+      },
+      {
+        "label": "D",
+        "text": "农民发动武装起义"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063779",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "抗日战争期间，国民党正面战场取得的第一个大胜利的战役是（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "台儿庄大捷"
+      },
+      {
+        "label": "B",
+        "text": "长城战役"
+      },
+      {
+        "label": "C",
+        "text": "百团大战"
+      },
+      {
+        "label": "D",
+        "text": "平型关战役"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063780",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "第五章题目为“中国革命的新道路”，“革命新道路”指（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "农村包围城市、武装夺取政权"
+      },
+      {
+        "label": "B",
+        "text": "以城市为中心、拓展革命势力"
+      },
+      {
+        "label": "C",
+        "text": "与国民党联合、开展国共合作"
+      },
+      {
+        "label": "D",
+        "text": "领导工人运动、发动学生游行"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063781",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "美国传教士林乐知发表《印度隶英十二说》，鼓吹英国统治印度的12条好处，并主张把英国的殖民统治制度搬到中国来，这体现了资本-帝国主义对中国的（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "文化渗透"
+      },
+      {
+        "label": "B",
+        "text": "军事侵略"
+      },
+      {
+        "label": "C",
+        "text": "经济掠夺"
+      },
+      {
+        "label": "D",
+        "text": "政治控制"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063782",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1905年，中国同盟会成立后的机关报是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "《时务报》"
+      },
+      {
+        "label": "B",
+        "text": "《国闻报》"
+      },
+      {
+        "label": "C",
+        "text": "《新民丛报》"
+      },
+      {
+        "label": "D",
+        "text": "《民报》"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063783",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国封建社会政治的基本特征是高度中央集权的（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "封建君主专制制度"
+      },
+      {
+        "label": "B",
+        "text": "封建宗法等级制度"
+      },
+      {
+        "label": "C",
+        "text": "君主立宪制"
+      },
+      {
+        "label": "D",
+        "text": "民主共和制"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063784",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1924年，孙中山指出：“创立了革命军，我们的革命才能成功。”为创立革命军，当时国共两党所采取的措施是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "创办黄埔军校"
+      },
+      {
+        "label": "B",
+        "text": "召开国民党一大"
+      },
+      {
+        "label": "C",
+        "text": "发动护国运动"
+      },
+      {
+        "label": "D",
+        "text": "领导工人运动"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063785",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1940年8月至翌年1月，八路军总部在华北发动了一次大规模的对日军的进攻，史称（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "台儿庄战役"
+      },
+      {
+        "label": "B",
+        "text": "淞沪会战"
+      },
+      {
+        "label": "C",
+        "text": "百团大战"
+      },
+      {
+        "label": "D",
+        "text": "徐州会战"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063786",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中共十五大把马克思列宁主义、毛泽东思想一道确立为中国共产党的指导思想的是（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "有中国特色的社会主义理论"
+      },
+      {
+        "label": "B",
+        "text": "“三个代表”重要思想"
+      },
+      {
+        "label": "C",
+        "text": "邓小平理论"
+      },
+      {
+        "label": "D",
+        "text": "科学发展观"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063787",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "毛泽东提出\"须知政权是由枪杆子中取得的\"著名论断是在（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "八七会议"
+      },
+      {
+        "label": "B",
+        "text": "中共二大"
+      },
+      {
+        "label": "C",
+        "text": "中共一大"
+      },
+      {
+        "label": "D",
+        "text": "遵义会议"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063788",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1929年9月，中共中央给红四军的指示信中指出：先有农村红军，后有城市政权，这是中国革命的特征。这表明，大革命失败后中国革命应当（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "以城市为中心"
+      },
+      {
+        "label": "B",
+        "text": "致力于夺取中心城市"
+      },
+      {
+        "label": "C",
+        "text": "以农村为中心，在农村开展武装斗争"
+      },
+      {
+        "label": "D",
+        "text": "接受资产阶级的领导"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063789",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "“军自南昌浴火生，前仆后继踏狰狞。自此高竖八一帜，铁壁铜墙主义撑。”对于这首诗理解正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "这首诗是为纪念秋收起义而作"
+      },
+      {
+        "label": "B",
+        "text": "这首诗表明南昌起义是创建人民军队的开始"
+      },
+      {
+        "label": "C",
+        "text": "“八一帜”是属于国民党军队的旗帜"
+      },
+      {
+        "label": "D",
+        "text": "诗中的“主义”指无政府主义"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063790",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "属于维新思想代表人物的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "梁启超"
+      },
+      {
+        "label": "B",
+        "text": "林则徐"
+      },
+      {
+        "label": "C",
+        "text": "李鸿章"
+      },
+      {
+        "label": "D",
+        "text": "曾国藩"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063791",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1911年—1912年，武昌起义的爆发，中华民国的成立，推翻了清朝，推翻了两千多年的封建帝制。对清史来说是终结，对民国史来说是开创，富有划时代意义。与上述活动有关的历史人物是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "林则徐"
+      },
+      {
+        "label": "B",
+        "text": "毛泽东"
+      },
+      {
+        "label": "C",
+        "text": "邓小平"
+      },
+      {
+        "label": "D",
+        "text": "孙中山"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063792",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "毛泽东明确提出\"马克思主义的中国化\"命题是在（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中共六届六中全会"
+      },
+      {
+        "label": "B",
+        "text": "洛川会议"
+      },
+      {
+        "label": "C",
+        "text": "瓦窑堡会议"
+      },
+      {
+        "label": "D",
+        "text": "八七会议"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063793",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "鸦片战争以清政府的失败而告终。1842年8月29日，清政府与英国签订了中国近代史上的第一个不平等条约是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中法《黄埔条约》"
+      },
+      {
+        "label": "B",
+        "text": "中英《虎门条约》"
+      },
+      {
+        "label": "C",
+        "text": "中美《望厦条约》"
+      },
+      {
+        "label": "D",
+        "text": "中英《南京条约》"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063794",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "某高校学生社团计划开展“百年党史中的青年力量”主题展览，准备用短视频形式呈现不同历史时期青年的奋斗故事。如果要展现新民主主义革命开端时期青年学子的爱国行动，视频素材应聚焦于以下哪一标志性事件？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "戊戌变法"
+      },
+      {
+        "label": "B",
+        "text": "辛亥革命"
+      },
+      {
+        "label": "C",
+        "text": "五四运动"
+      },
+      {
+        "label": "D",
+        "text": "洋务运动"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063795",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中华苏维埃共和国成立后，各级苏维埃政府广泛吸收（）参加政权管理，行使当家作主的权利。",
+    "options": [
+      {
+        "label": "A",
+        "text": "干部代表"
+      },
+      {
+        "label": "B",
+        "text": "工人代表"
+      },
+      {
+        "label": "C",
+        "text": "农民代表"
+      },
+      {
+        "label": "D",
+        "text": "工农群众代表"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063796",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "标志着中国新民主主义革命开端的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "五四运动"
+      },
+      {
+        "label": "B",
+        "text": "新文化运动"
+      },
+      {
+        "label": "C",
+        "text": "武昌起义"
+      },
+      {
+        "label": "D",
+        "text": "辛亥革命"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063797",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国开始进入半殖民地半封建社会是在（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "第二次鸦片战争后"
+      },
+      {
+        "label": "B",
+        "text": "第一次鸦片战争后"
+      },
+      {
+        "label": "C",
+        "text": "中日甲午战争后"
+      },
+      {
+        "label": "D",
+        "text": "八国联军侵华战争后"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063798",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1962年1月至2月间，中共中央召开的统一思想、总结经验教训、明确工作方向的会议是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "庐山会议"
+      },
+      {
+        "label": "B",
+        "text": "中共八届九中全会"
+      },
+      {
+        "label": "C",
+        "text": "七千人大会"
+      },
+      {
+        "label": "D",
+        "text": "中共八届十中全会"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063799",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "八七会议确立的革命方针是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "城市暴动与工人运动相结合"
+      },
+      {
+        "label": "B",
+        "text": "土地革命与武装斗争相结合"
+      },
+      {
+        "label": "C",
+        "text": "联合国民党左派继续北伐"
+      },
+      {
+        "label": "D",
+        "text": "建立抗日民族统一战线"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063800",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "戊戌变法的性质是( )",
+    "options": [
+      {
+        "label": "A",
+        "text": "资产阶级革命运动"
+      },
+      {
+        "label": "B",
+        "text": "封建统治阶级自上而下的改革"
+      },
+      {
+        "label": "C",
+        "text": "资产阶级改良运动"
+      },
+      {
+        "label": "D",
+        "text": "地主阶级的改革运动"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063801",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国共产党独立领导革命战争和创建人民军队的开端是（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "南昌起义"
+      },
+      {
+        "label": "B",
+        "text": "秋收起义"
+      },
+      {
+        "label": "C",
+        "text": "广州起义"
+      },
+      {
+        "label": "D",
+        "text": "三湾改编"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063802",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "下列关于\"九一八事变\"影响，不正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "它是日本灭亡中国计划的一部分"
+      },
+      {
+        "label": "B",
+        "text": "它揭开了中华民族十四年抗战的历史序幕"
+      },
+      {
+        "label": "C",
+        "text": "它使中国东北沦为日本殖民地"
+      },
+      {
+        "label": "D",
+        "text": "它促使中共立即作出国共合作共同抗日的主张"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063803",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国在半殖民地半封建社会时期反侵略斗争失败的最根本原因是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "经济技术落后"
+      },
+      {
+        "label": "B",
+        "text": "社会制度腐败"
+      },
+      {
+        "label": "C",
+        "text": "思想文化保守"
+      },
+      {
+        "label": "D",
+        "text": "军事装备落后"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063804",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "大学生小王在撰写关于“青年与时代使命”的论文时，想引用历史事件说明青年在推动社会变革中的作用。下列选项中，哪一事件最能体现青年学生以爱国热情推动社会进步？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "洋务运动"
+      },
+      {
+        "label": "B",
+        "text": "“一二·九”运动"
+      },
+      {
+        "label": "C",
+        "text": "太平天国运动"
+      },
+      {
+        "label": "D",
+        "text": "义和团运动"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063805",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "洋务运动期间创办的部分企业内部极其腐败，充斥着营私舞弊、贪污受贿等现象，这说明洋务企业的管理具有（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "腐朽性"
+      },
+      {
+        "label": "B",
+        "text": "依赖性"
+      },
+      {
+        "label": "C",
+        "text": "先进性"
+      },
+      {
+        "label": "D",
+        "text": "封建性"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063806",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "抗日战争的战略防御阶段是指（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "1935年华北事变到1938年10月广州、武汉失守"
+      },
+      {
+        "label": "B",
+        "text": "1935年华北事变到1940年百团大战"
+      },
+      {
+        "label": "C",
+        "text": "1937年7月卢沟桥事变到1938年10月广州、武汉失守"
+      },
+      {
+        "label": "D",
+        "text": "1937年7月卢沟桥事变到1940年百团大战"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063807",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国共产党制定的第一个土地法是（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《兴国土地法》"
+      },
+      {
+        "label": "B",
+        "text": "《井冈山土地法》"
+      },
+      {
+        "label": "C",
+        "text": "《中国土地法大纲》"
+      },
+      {
+        "label": "D",
+        "text": "《五四指示》"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063808",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "辛亥革命的失败是指（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "没有促进中国革命向前发展"
+      },
+      {
+        "label": "B",
+        "text": "没有推翻清政府的统治"
+      },
+      {
+        "label": "C",
+        "text": "没有打击帝国主义的在华势力"
+      },
+      {
+        "label": "D",
+        "text": "没有完成反帝反封建的任务"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063809",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "十月革命爆发后，中国的知识分子认为中国国情与俄国相似，所以中国“须有同类的精神，即使用革命的社会主义。” 这说明（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "在经济文化落后的国家也可以用社会主义思想指引自己走向解放之路"
+      },
+      {
+        "label": "B",
+        "text": "中国只有走资本主义道路才能实现救国"
+      },
+      {
+        "label": "C",
+        "text": "中国国情与俄国相似，是指中俄两国都是发达的资本主义国家"
+      },
+      {
+        "label": "D",
+        "text": "中国“须有同类的精神”，是指资产阶级改良主义"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063810",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1949年政协会议上选举的中央人民政府主席是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "毛泽东"
+      },
+      {
+        "label": "B",
+        "text": "周恩来"
+      },
+      {
+        "label": "C",
+        "text": "朱德"
+      },
+      {
+        "label": "D",
+        "text": "刘少奇"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063811",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "在19世纪60年代到90年代，洋务派兴办洋务事业的主要目的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "学习西方资本主义的政治制度，推翻封建社会"
+      },
+      {
+        "label": "B",
+        "text": "在维护和巩固清王朝的前提下，学习西方近代工业和技术"
+      },
+      {
+        "label": "C",
+        "text": "发展中国的民族资本主义经济"
+      },
+      {
+        "label": "D",
+        "text": "是为了反对西方列强的侵略，捍卫国家的主权独立和民族尊严"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063812",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中华苏维埃共和国实行（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "工农兵代表大会制度"
+      },
+      {
+        "label": "B",
+        "text": "政治协商制度"
+      },
+      {
+        "label": "C",
+        "text": "人民代表会议制度"
+      },
+      {
+        "label": "D",
+        "text": "人民代表大会制度"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063813",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "王明“左”倾教条主义错误给中国革命造成的最大恶果是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "广州起义失败"
+      },
+      {
+        "label": "B",
+        "text": "中国共产党在四·一二政变中遭受严重损失"
+      },
+      {
+        "label": "C",
+        "text": "红军第五次反围剿失败，被迫长征"
+      },
+      {
+        "label": "D",
+        "text": "秋收起义攻打长沙的战斗受挫"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063814",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "戊戌维新运动发生在（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中日甲午战争后"
+      },
+      {
+        "label": "B",
+        "text": "中法战争后"
+      },
+      {
+        "label": "C",
+        "text": "鸦片战争后"
+      },
+      {
+        "label": "D",
+        "text": "八国联军侵华战争后"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063815",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "帝国主义侵略中国的最终目的是要（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "传播西方先进文化"
+      },
+      {
+        "label": "B",
+        "text": "帮助中国发展资本主义"
+      },
+      {
+        "label": "C",
+        "text": "瓜分中国、灭亡中国"
+      },
+      {
+        "label": "D",
+        "text": "与中国进行经济贸易"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063816",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "标志着中国共产党诞生的会议是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "八七会议"
+      },
+      {
+        "label": "B",
+        "text": "中共一大"
+      },
+      {
+        "label": "C",
+        "text": "中共二大"
+      },
+      {
+        "label": "D",
+        "text": "遵义会议"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063817",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "近代以来，中国人民反侵略战争都是以中国失败、中国政府被迫签订丧权辱国的不平等条约而告终。从中国内部因素来分析，其根本原因是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "社会制度腐败"
+      },
+      {
+        "label": "B",
+        "text": "军事战略错误"
+      },
+      {
+        "label": "C",
+        "text": "经济技术落后"
+      },
+      {
+        "label": "D",
+        "text": "思想观念保守"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063818",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国共产党在中国革命中战胜敌人的三个法宝是统一战线、武装斗争和（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "党的建设"
+      },
+      {
+        "label": "B",
+        "text": "独立自主"
+      },
+      {
+        "label": "C",
+        "text": "解放思想"
+      },
+      {
+        "label": "D",
+        "text": "实事求是"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063819",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "科举制是清政府在下列（）活动中废除的？",
+    "options": [
+      {
+        "label": "A",
+        "text": "清末\"新政\""
+      },
+      {
+        "label": "B",
+        "text": "戊戌变法"
+      },
+      {
+        "label": "C",
+        "text": "洋务运动"
+      },
+      {
+        "label": "D",
+        "text": "\"预备仿行宪政\""
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063820",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "在中国近代史上规定允许外国人在中国办工厂的条约是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《马关条约》"
+      },
+      {
+        "label": "B",
+        "text": "《北京条约》"
+      },
+      {
+        "label": "C",
+        "text": "《天津条约》"
+      },
+      {
+        "label": "D",
+        "text": "《南京条约》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063821",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "党的十八大以来，通过强化党内监督，坚持“老虎苍蝇一起打”，以坚定态度惩治腐败分子。这表明我们党（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "推进全面从严治党"
+      },
+      {
+        "label": "B",
+        "text": "推进全面深化改革"
+      },
+      {
+        "label": "C",
+        "text": "推进全面建成小康社会"
+      },
+      {
+        "label": "D",
+        "text": "推进全面依法治国"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063822",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "下列属于中共一大通过的党纲内容的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "用无产阶级革命军队推翻资产阶级"
+      },
+      {
+        "label": "B",
+        "text": "消除内乱，打倒军阀"
+      },
+      {
+        "label": "C",
+        "text": "推翻帝国主义压迫"
+      },
+      {
+        "label": "D",
+        "text": "统一中国为真正的民主共和国"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063823",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1919年北京的街道上，一群学生打着“废除二十一条”“誓死力争，还我青岛”的标语，高喊着“外争国权，内惩国贼”的口号，进行游行集会。这是下列哪一事件中的场景。 （ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "一二·九运动"
+      },
+      {
+        "label": "B",
+        "text": "戊戌维新运动"
+      },
+      {
+        "label": "C",
+        "text": "五四运动"
+      },
+      {
+        "label": "D",
+        "text": "洋务运动"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063824",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中华民国南京临时政府是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "资产阶级共和国性质的革命政权"
+      },
+      {
+        "label": "B",
+        "text": "大地主阶级专制政府"
+      },
+      {
+        "label": "C",
+        "text": "无产阶级占主导地位的政权"
+      },
+      {
+        "label": "D",
+        "text": "各阶级联合执政的政府"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063825",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1843年，魏源编成《海国图志》。他在书中写道：“是书何以作？曰：为师夷长技以制夷而作。”魏源所说的夷之“长技”主要是指西方的（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "民主和政治制度"
+      },
+      {
+        "label": "B",
+        "text": "宗教和思想文化"
+      },
+      {
+        "label": "C",
+        "text": "军事和科学技术"
+      },
+      {
+        "label": "D",
+        "text": "教育和人才培养"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063826",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "对1924－1927年大革命性质的正确表述是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "国共领导的反帝反封建的民主主义革命"
+      },
+      {
+        "label": "B",
+        "text": "旧民主主义革命"
+      },
+      {
+        "label": "C",
+        "text": "反对帝国主义的革命"
+      },
+      {
+        "label": "D",
+        "text": "无产阶级革命"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063827",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1915年，为复辟帝制，袁世凯基本接受了日本提出的严重损害中国权益的（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "中日共同防敌军事协定"
+      },
+      {
+        "label": "B",
+        "text": "承认外蒙自治"
+      },
+      {
+        "label": "C",
+        "text": "“二十一条”"
+      },
+      {
+        "label": "D",
+        "text": "出让川汉、粤汉铁路"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063828",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "进入中国特色社会主义新时代，脱贫攻坚战、全面建成小康社会取得伟大胜利，人民赞美了我们所处的新时代。这个新时代是从（ ）开启的。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中共十一届三中全会"
+      },
+      {
+        "label": "B",
+        "text": "中共六届六中全会"
+      },
+      {
+        "label": "C",
+        "text": "中共七大"
+      },
+      {
+        "label": "D",
+        "text": "中共十八大"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063829",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "毛泽东在《论持久战》中，科学预测了抗日战争的发展进程，指出“整个战争的过渡阶段，也将是最困难的时期，然而它是转变的枢纽”，这是中国抗日战争能否取得最后胜利的最关键的阶段。这个“最后胜利的最关键的阶段”是指（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "战略相持"
+      },
+      {
+        "label": "B",
+        "text": "战略防御"
+      },
+      {
+        "label": "C",
+        "text": "战略反攻"
+      },
+      {
+        "label": "D",
+        "text": "战略转移"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063830",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "宣告延续了22年之久的国民党反动统治覆灭的是人民解放军占领（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "武汉"
+      },
+      {
+        "label": "B",
+        "text": "上海"
+      },
+      {
+        "label": "C",
+        "text": "南京"
+      },
+      {
+        "label": "D",
+        "text": "广州"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063831",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "著名学者胡绳说：“近代中国在20世纪初处于一个社会大变革时期，中国旧民主主义革命向新民主主义革命转折。”这一转折点是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "太平天国运动"
+      },
+      {
+        "label": "B",
+        "text": "洋务运动"
+      },
+      {
+        "label": "C",
+        "text": "天京事变"
+      },
+      {
+        "label": "D",
+        "text": "五四运动"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063832",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "被誉为中国人民的大宪章、起着临时宪法作用的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《中国人民政治协商会议组织法》"
+      },
+      {
+        "label": "B",
+        "text": "《论人民民主专政》"
+      },
+      {
+        "label": "C",
+        "text": "《中国人民政治协商会议共同纲领》"
+      },
+      {
+        "label": "D",
+        "text": "《新民主主义论》"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063833",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "（  ）打响了武装反抗国民党反动派的第一枪。",
+    "options": [
+      {
+        "label": "A",
+        "text": "辛亥革命"
+      },
+      {
+        "label": "B",
+        "text": "金田起义"
+      },
+      {
+        "label": "C",
+        "text": "南昌起义"
+      },
+      {
+        "label": "D",
+        "text": "太原战役"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063834",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "德国元帅瓦德西说 ：“无论欧美、日本各国，皆无次脑力与兵力，可以统治此天下生灵之四分之一。故瓜分一事，实属下策。”这表明（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "帝国主义齐心协力侵略中国"
+      },
+      {
+        "label": "B",
+        "text": "帝国主义放弃了灭亡中国的企图"
+      },
+      {
+        "label": "C",
+        "text": "中国人民放弃了抵抗"
+      },
+      {
+        "label": "D",
+        "text": "帝国主义瓜分中国图谋的破产"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063835",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "强行割去台湾全岛及所有附属岛屿和澎湖列岛的不平等条约是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《辛丑条约》"
+      },
+      {
+        "label": "B",
+        "text": "《黄埔条约》"
+      },
+      {
+        "label": "C",
+        "text": "《马关条约》"
+      },
+      {
+        "label": "D",
+        "text": "《虎门条约》"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063836",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "在1840年至1919年期间，比较完全意义上的资产阶级民主革命是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "义和团运动"
+      },
+      {
+        "label": "B",
+        "text": "戊戌维新运动"
+      },
+      {
+        "label": "C",
+        "text": "太平天国革命"
+      },
+      {
+        "label": "D",
+        "text": "辛亥革命"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063837",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "新文化运动时期，著名语言文字学家钱玄同主张废除汉字，他认为“欲废孔学，不可不先废汉文。欲除一般人幼稚、愚昧、顽固的思想，尤不可不先废汉文。”这表明：（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中国汉字阻碍了中国思想文化的进步"
+      },
+      {
+        "label": "B",
+        "text": "当时的一些新文化运动参与者缺乏马克思主义的批判精神，看问题比较片面，坏就是绝对的坏，好就是绝对的好"
+      },
+      {
+        "label": "C",
+        "text": "中国汉字阻碍了社会的思想解放"
+      },
+      {
+        "label": "D",
+        "text": "中国汉字代表愚昧落后的文化"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063838",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "第二次鸦片战争中，掠夺中国领土最多的侵略者是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "美国"
+      },
+      {
+        "label": "B",
+        "text": "英国"
+      },
+      {
+        "label": "C",
+        "text": "俄国"
+      },
+      {
+        "label": "D",
+        "text": "法国"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063839",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "李四出生那年是中国近代史的起点，请问李四出生于哪一年？",
+    "options": [
+      {
+        "label": "A",
+        "text": "1898年"
+      },
+      {
+        "label": "B",
+        "text": "1949年"
+      },
+      {
+        "label": "C",
+        "text": "1840年"
+      },
+      {
+        "label": "D",
+        "text": "1919年"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063840",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "魏源在其（ ）中，提出了\"师夷长技以制夷\"的思想，主张学习外国先进的军事和科学技术，以期富国强兵，抵御外国侵略，开创了中国近代向西方学习的新风。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《海国图志》"
+      },
+      {
+        "label": "B",
+        "text": "《四洲志》"
+      },
+      {
+        "label": "C",
+        "text": "《夷情备采》"
+      },
+      {
+        "label": "D",
+        "text": "《盛世危言》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063841",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "为缅怀革命先烈、纪念红军长征，某高校在暑假期间组织学生开展“重走长征路”的主题活动。下列地址中不会出现在“重走长征路”活动中的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "遵义会议纪念馆"
+      },
+      {
+        "label": "B",
+        "text": "赤水河畔"
+      },
+      {
+        "label": "C",
+        "text": "泸定桥"
+      },
+      {
+        "label": "D",
+        "text": "河北西柏坡"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063842",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "19世纪初，大肆向中国走私鸦片的国家是（     ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "希腊"
+      },
+      {
+        "label": "B",
+        "text": "西班牙"
+      },
+      {
+        "label": "C",
+        "text": "英国"
+      },
+      {
+        "label": "D",
+        "text": "意大利"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063843",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国共产党第一次明确提出反帝反封建的民主革命纲领是在（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中共二大会议上"
+      },
+      {
+        "label": "B",
+        "text": "中共一大会议上"
+      },
+      {
+        "label": "C",
+        "text": "《新青年》创刊号上"
+      },
+      {
+        "label": "D",
+        "text": "中共三大会议上"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063844",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "抗日战争胜利后，国共两党举行的第一次正式和平谈判是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "西安谈判"
+      },
+      {
+        "label": "B",
+        "text": "重庆谈判"
+      },
+      {
+        "label": "C",
+        "text": "庐山谈判"
+      },
+      {
+        "label": "D",
+        "text": "北平谈判"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063845",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "江西省瑞金市是著名历史文化名城，是闻名中外的红色故都、共和国摇篮。下列历史事件与瑞金相关联的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中国共产党的诞生"
+      },
+      {
+        "label": "B",
+        "text": "长征胜利结束"
+      },
+      {
+        "label": "C",
+        "text": "打响武装反抗国民党反动派第一枪"
+      },
+      {
+        "label": "D",
+        "text": "中华苏维埃共和国的建立"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063846",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "（  ）是近代中国睁眼看世界第一人。",
+    "options": [
+      {
+        "label": "A",
+        "text": "刘步蟾"
+      },
+      {
+        "label": "B",
+        "text": "林永升"
+      },
+      {
+        "label": "C",
+        "text": "林则徐"
+      },
+      {
+        "label": "D",
+        "text": "左宝贵"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063847",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "陈独秀的右倾投降主义和王明\"左\"倾冒险主义都给中国带来严重危害，这两次错误路线产生的根源在于（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中共处于幼年时期，理论思想尚不成熟"
+      },
+      {
+        "label": "B",
+        "text": "错误领导人排挤毛泽东"
+      },
+      {
+        "label": "C",
+        "text": "共产国际错误指导"
+      },
+      {
+        "label": "D",
+        "text": "国民党分化破坏活动"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063848",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1949 年 3 月，中共七届二中全会提出党的工作重心（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "从南方转向北方"
+      },
+      {
+        "label": "B",
+        "text": "从沿海转向内地"
+      },
+      {
+        "label": "C",
+        "text": "从战争转向建设"
+      },
+      {
+        "label": "D",
+        "text": "从农村转向城市"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063849",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1935年12月，中国共产党确定抗日民族统一战线政策的会议是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "晋西会议"
+      },
+      {
+        "label": "B",
+        "text": "通道会议"
+      },
+      {
+        "label": "C",
+        "text": "瓦窑堡会议"
+      },
+      {
+        "label": "D",
+        "text": "晋绥干部会议"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063850",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "在红军第五次反“\n围剿\n”作战过程中，共产国际代表李德“不了解中国的国情，也不了解中国工农红军的情况，不作调查研究，生搬硬套在苏联有效在中国行不通的战略战术。”这表明，中国共产党出现左倾错误与（ ）有密切联系。",
+    "options": [
+      {
+        "label": "A",
+        "text": "共产国际对中国共产党内部事务的错误干预"
+      },
+      {
+        "label": "B",
+        "text": "李德军事素养较低"
+      },
+      {
+        "label": "C",
+        "text": "李德革命信仰不坚定"
+      },
+      {
+        "label": "D",
+        "text": "红军第五次反围剿作战不力"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063851",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "清末\"预备立宪\"的根本目的在于（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "发展资本主义经济"
+      },
+      {
+        "label": "B",
+        "text": "延续清政府的统治"
+      },
+      {
+        "label": "C",
+        "text": "仿效欧美政体"
+      },
+      {
+        "label": "D",
+        "text": "缓和阶级矛盾"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063852",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "民生主义指的是（）革命",
+    "options": [
+      {
+        "label": "A",
+        "text": "民族"
+      },
+      {
+        "label": "B",
+        "text": "政治"
+      },
+      {
+        "label": "C",
+        "text": "文化"
+      },
+      {
+        "label": "D",
+        "text": "社会"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063853",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "A同学在学习第五章第二节“在20世纪30年代前期、中期，中国共产党出现‘左’倾错误的原因和表现”的内容时，写下了读书笔记，下列读书笔记内容错误的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "在学习中应当避免犯教条主义错误"
+      },
+      {
+        "label": "B",
+        "text": "在生活中做事情要实事求是"
+      },
+      {
+        "label": "C",
+        "text": "在未来工作中要将专业知识与具体工作相结合，坚持理论联系实际"
+      },
+      {
+        "label": "D",
+        "text": "只要背会理论知识，就能将工作做好"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063854",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "五四运动以后，社会主义思潮在中国蓬勃兴起，马克思主义开始在知识界广泛传播。标志着马克思主义在中国进入比较系统的传播阶段的著作是（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "《法俄革命之比较观》"
+      },
+      {
+        "label": "B",
+        "text": "《我的马克思主义观》"
+      },
+      {
+        "label": "C",
+        "text": "《庶民的胜利》"
+      },
+      {
+        "label": "D",
+        "text": "《布尔什维主义的胜利》"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063855",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "标志中国延续两千余年封建帝制覆灭的历史事件是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中华人民共和国的成立"
+      },
+      {
+        "label": "B",
+        "text": "清帝退位"
+      },
+      {
+        "label": "C",
+        "text": "武昌起义爆发"
+      },
+      {
+        "label": "D",
+        "text": "皇族内阁解散"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063856",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "建国初期，为了保家卫国，中国政府毅然决定（ ），组建中国人民志愿军。",
+    "options": [
+      {
+        "label": "A",
+        "text": "抗美援朝"
+      },
+      {
+        "label": "B",
+        "text": "土地改革"
+      },
+      {
+        "label": "C",
+        "text": "和平解放西藏"
+      },
+      {
+        "label": "D",
+        "text": "发布了《共同纲领》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063857",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "“有田同耕、有饭同食、有衣同穿、有钱同使、无处不均匀、无人不保暖”是（ ）的社会改革方案。",
+    "options": [
+      {
+        "label": "A",
+        "text": "资产阶级改良派"
+      },
+      {
+        "label": "B",
+        "text": "地主阶级"
+      },
+      {
+        "label": "C",
+        "text": "农民阶级"
+      },
+      {
+        "label": "D",
+        "text": "资产阶级革命派"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063858",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "革命派和改良派论战的内容有要不要（ ）。 ①以革命手段推翻清王朝 ②推翻帝制，实行共和 ③废除科举制度 ④进行社会革命",
+    "options": [
+      {
+        "label": "A",
+        "text": "①②④"
+      },
+      {
+        "label": "B",
+        "text": "①③④"
+      },
+      {
+        "label": "C",
+        "text": "②③④"
+      },
+      {
+        "label": "D",
+        "text": "①②③"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063859",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国近代第一个资产阶级革命政党是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "马克思主义研究会"
+      },
+      {
+        "label": "B",
+        "text": "岳王会"
+      },
+      {
+        "label": "C",
+        "text": "强学会"
+      },
+      {
+        "label": "D",
+        "text": "同盟会"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063860",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "抗日战争取得完全胜利的重要标志是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "被日本占领50年之久的台湾以及澎湖列岛，由中国收回"
+      },
+      {
+        "label": "B",
+        "text": "侵华日军128万人向中国投降"
+      },
+      {
+        "label": "C",
+        "text": "《联合国宪章》的签署"
+      },
+      {
+        "label": "D",
+        "text": "苏联红军进入中国东北，猛烈攻击日本关东军"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063861",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "第一次国共合作时期，中国国民党被改组成为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "工人、农民、城市小资产阶级和民族资产阶级的革命联盟"
+      },
+      {
+        "label": "B",
+        "text": "官僚资产阶级的政党"
+      },
+      {
+        "label": "C",
+        "text": "城市小资产阶级的政党"
+      },
+      {
+        "label": "D",
+        "text": "民族资产阶级的政党"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063862",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1945年10月10日，国共两党经过谈判，签订《政府与中共代表会谈纪要》，确认（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "保护人民的民主、自由权利"
+      },
+      {
+        "label": "B",
+        "text": "建立民主联合政府"
+      },
+      {
+        "label": "C",
+        "text": "实行宪政、结束训政"
+      },
+      {
+        "label": "D",
+        "text": "和平建国的基本方针"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063863",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国近代史上第一个具有资本主义色彩的改革和建设方案是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《资政新篇》"
+      },
+      {
+        "label": "B",
+        "text": "《海国图志》"
+      },
+      {
+        "label": "C",
+        "text": "《天朝田亩制度》"
+      },
+      {
+        "label": "D",
+        "text": "《变法通议》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063864",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1935年1月15日至17日，中共中央在遵义召开\n政治局\n扩大会议，会议集中解决了（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "当时具有决定意义的军事和组织问题"
+      },
+      {
+        "label": "B",
+        "text": "红军的前进方向问题"
+      },
+      {
+        "label": "C",
+        "text": "党的政治路线问题"
+      },
+      {
+        "label": "D",
+        "text": "土地革命的政策问题"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063865",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "第二次鸦片战争中，从中国攫取了一百多万平方公里的土地，获利最大的国家是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "日本"
+      },
+      {
+        "label": "B",
+        "text": "法国"
+      },
+      {
+        "label": "C",
+        "text": "英国"
+      },
+      {
+        "label": "D",
+        "text": "俄国"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063866",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1930年5月，毛泽东在《反对本本主义》中提出：马克思主义的“本本”是要学习的，但是必须同我国的实际情况相结合。我们需要“本本”，但是一定要纠正脱离实际情况的本本主义。这说明，毛泽东在工作中特别强调（ ）的原则。",
+    "options": [
+      {
+        "label": "A",
+        "text": "理论与实际相结合"
+      },
+      {
+        "label": "B",
+        "text": "为人民服务"
+      },
+      {
+        "label": "C",
+        "text": "自我批评"
+      },
+      {
+        "label": "D",
+        "text": "建立统一战线"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063867",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "确立毛泽东思想为党的指导思想的会议是（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "党的六届六中全会"
+      },
+      {
+        "label": "B",
+        "text": "党的七大"
+      },
+      {
+        "label": "C",
+        "text": "党的六大"
+      },
+      {
+        "label": "D",
+        "text": "党的七届二中全会"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063868",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1954年，中华人民共和国第一届全国人民代表大会第一次会议在北京召开，大会讨论并通过（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《中华人民共和国刑法》"
+      },
+      {
+        "label": "B",
+        "text": "《中华人民共和国宪法》"
+      },
+      {
+        "label": "C",
+        "text": "《中华人民共和国民法》"
+      },
+      {
+        "label": "D",
+        "text": "《中华人民共和国物权法》"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063869",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "明确提出我国经济体制改革的目标是建立社会主义市场经济体制的会议是 （）",
+    "options": [
+      {
+        "label": "A",
+        "text": "中共十三大"
+      },
+      {
+        "label": "B",
+        "text": "中共十四大"
+      },
+      {
+        "label": "C",
+        "text": "中共十五大"
+      },
+      {
+        "label": "D",
+        "text": "中共十六大"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063870",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "洋务运动时期，国内最大的兵工厂是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "福州船政局"
+      },
+      {
+        "label": "B",
+        "text": "上海江南制造总局"
+      },
+      {
+        "label": "C",
+        "text": "金陵机器局"
+      },
+      {
+        "label": "D",
+        "text": "天津机器局"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063871",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1978年真理标准问题的讨论，其实质在于()",
+    "options": [
+      {
+        "label": "A",
+        "text": "是不是坚持马列主义、毛泽东思想"
+      },
+      {
+        "label": "B",
+        "text": "是不是坚持改革开放"
+      },
+      {
+        "label": "C",
+        "text": "是不是坚持社会主义"
+      },
+      {
+        "label": "D",
+        "text": "是不是坚持科学发展"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063872",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "毛泽东在实践中首先将革命的进攻方向指向了农村，这一实践是指（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "领导南昌起义"
+      },
+      {
+        "label": "B",
+        "text": "创建井冈山农村革命根据地"
+      },
+      {
+        "label": "C",
+        "text": "在八七会议中提出“枪杆子中夺政权”的思想"
+      },
+      {
+        "label": "D",
+        "text": "发动广州起义"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063873",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1922年7月，中国共产党第二次全国代表大会第一次明确提出（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "彻底的反帝反封建的民主革命纲领，为中国人民指出了明确的奋斗目标"
+      },
+      {
+        "label": "B",
+        "text": "同中国国民党建立统一战线的策略"
+      },
+      {
+        "label": "C",
+        "text": "坚持共产党领导权和巩固工农联盟的总方针"
+      },
+      {
+        "label": "D",
+        "text": "发动武装起义、开展土地革命的策略方针"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063874",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "卢沟桥事变发生的时间是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "1937年7月7日"
+      },
+      {
+        "label": "B",
+        "text": "1936年8月1日"
+      },
+      {
+        "label": "C",
+        "text": "1937年5月2日"
+      },
+      {
+        "label": "D",
+        "text": "1945年1月3日"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063875",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中华人民共和国在（ ）对澳门恢复行使主权。",
+    "options": [
+      {
+        "label": "A",
+        "text": "1999年12月20日"
+      },
+      {
+        "label": "B",
+        "text": "1995年8月7日"
+      },
+      {
+        "label": "C",
+        "text": "1997年7月1日"
+      },
+      {
+        "label": "D",
+        "text": "2001年7月1日"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063876",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1978年5月，《光明日报》发表评论文章：“真理只有一个，而究竟谁发现了真理，不依靠主观的夸张，而依靠客观的实践。只有千百万人民的革命实践，才是检验真理的尺度。”关于此次评论说法错误的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "它引发了一场关于真理标准问题的大讨论"
+      },
+      {
+        "label": "B",
+        "text": "它强调实践是检验真理的唯一标准"
+      },
+      {
+        "label": "C",
+        "text": "它是一场马克思主义思想解放运动"
+      },
+      {
+        "label": "D",
+        "text": "它依然坚持了左倾错误思想路线"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063877",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1987年，中共十三大提出了社会主义初级阶段“一个中心、两个基本点”的基本路线。其中，“一个中心”指（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "以阶级斗争为中心"
+      },
+      {
+        "label": "B",
+        "text": "以革命战争为中心"
+      },
+      {
+        "label": "C",
+        "text": "以经济建设为中心"
+      },
+      {
+        "label": "D",
+        "text": "以社会和谐为中心"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063878",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1931年，中华苏维埃第一次全国代表大会召开的地点是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "江西省瑞金"
+      },
+      {
+        "label": "B",
+        "text": "江西省吉安"
+      },
+      {
+        "label": "C",
+        "text": "江西省兴国"
+      },
+      {
+        "label": "D",
+        "text": "陕西省延安"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063879",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "在中国早期信仰马克思主义的人物中，（）属于五四爱国运动的左翼骨干。",
+    "options": [
+      {
+        "label": "A",
+        "text": "李大钊"
+      },
+      {
+        "label": "B",
+        "text": "毛泽东"
+      },
+      {
+        "label": "C",
+        "text": "陈独秀"
+      },
+      {
+        "label": "D",
+        "text": "董必武"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063880",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "20世纪40年代前期，为了提高广大党员的思想理论水平，增强党的凝聚力和战斗力，中国共产党在全党范围内开展了一场整风运动。这场整风运动最主要的任务是( )。",
+    "options": [
+      {
+        "label": "A",
+        "text": "反对享乐主义以整顿作风"
+      },
+      {
+        "label": "B",
+        "text": "反对党八股以整顿文风"
+      },
+      {
+        "label": "C",
+        "text": "反对宗派主义以整顿党风"
+      },
+      {
+        "label": "D",
+        "text": "反对主观主义以整顿学风"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063881",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "土地革命时期，中国共产党对富农的政策是（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "消灭富农"
+      },
+      {
+        "label": "B",
+        "text": "联合富农"
+      },
+      {
+        "label": "C",
+        "text": "限制富农"
+      },
+      {
+        "label": "D",
+        "text": "保护富农"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063882",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "2016年10月，习近平总书记在纪念红军长征胜利80周年大会的讲话中指出：“长征的胜利，靠的是红军将士压倒一切敌人而不被任何敌人所压倒、征服一切困难而不被任何困难所征服的英雄气概和革命精神。这个“革命精神”主要指（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "井冈山精神"
+      },
+      {
+        "label": "B",
+        "text": "太行精神"
+      },
+      {
+        "label": "C",
+        "text": "长征精神"
+      },
+      {
+        "label": "D",
+        "text": "抗战精神"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063883",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "洋务运动失败的原因不包括（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "企业管理的腐朽性"
+      },
+      {
+        "label": "B",
+        "text": "对外国的依赖性"
+      },
+      {
+        "label": "C",
+        "text": "资产阶级的软弱性"
+      },
+      {
+        "label": "D",
+        "text": "洋务运动的封建性"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063884",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1932年，国民党政府建立一支由蒋介石直接指挥的“中央军”，蒋介石为了加强“中央军”，聘请外国军事顾问，购买军火。他声称：“唯一的目的，就是要消灭赤匪，所以一切的设施，皆要以赤匪为对象。”这表明，国民党政府采取（ ） 措施来加强一党专政和军事独裁。",
+    "options": [
+      {
+        "label": "A",
+        "text": "建立庞大的军队"
+      },
+      {
+        "label": "B",
+        "text": "建立特务统治"
+      },
+      {
+        "label": "C",
+        "text": "完善保甲制度"
+      },
+      {
+        "label": "D",
+        "text": "实行文化专制"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063885",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中华民国建立的时间为（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "1927\"年\"8\"月\"1\"日\""
+      },
+      {
+        "label": "B",
+        "text": "1921\"年\"7\"月\"23\"日\""
+      },
+      {
+        "label": "C",
+        "text": "1912\"年\"1\"月\"1\"日\""
+      },
+      {
+        "label": "D",
+        "text": "1906\"年\"5\"月\"1\"日\""
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063886",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "抗战胜利后，经过重庆谈判国共双方为确认和平建国的基本方针而达成的协议是 （ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《双十协定》"
+      },
+      {
+        "label": "B",
+        "text": "《对目前时局的宣言》"
+      },
+      {
+        "label": "C",
+        "text": "《论持久战》"
+      },
+      {
+        "label": "D",
+        "text": "《共同纲领》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063887",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "20世纪初，在民主革命思想传播中发表《警世钟》的是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "章炳麟"
+      },
+      {
+        "label": "B",
+        "text": "邹容"
+      },
+      {
+        "label": "C",
+        "text": "陈天华"
+      },
+      {
+        "label": "D",
+        "text": "孙中山"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063888",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中华民族由衰败走向伟大复兴的转折点是（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "抗日战争的胜利"
+      },
+      {
+        "label": "B",
+        "text": "中法战争的失败"
+      },
+      {
+        "label": "C",
+        "text": "甲午战争的失败"
+      },
+      {
+        "label": "D",
+        "text": "抗美援朝的胜利"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063889",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "近代\"中学为体，西学为用\"思想的提出者属于（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "洋务派"
+      },
+      {
+        "label": "B",
+        "text": "资产阶级改良派"
+      },
+      {
+        "label": "C",
+        "text": "农民阶级革命派"
+      },
+      {
+        "label": "D",
+        "text": "地主阶级保守派"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063890",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1992年，邓小平南巡时强调（ ）是硬道理。",
+    "options": [
+      {
+        "label": "A",
+        "text": "发展"
+      },
+      {
+        "label": "B",
+        "text": "创新"
+      },
+      {
+        "label": "C",
+        "text": "纪律"
+      },
+      {
+        "label": "D",
+        "text": "开放"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063891",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "近代以来中国赔款数额最多的不平等条约是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《马关条约》"
+      },
+      {
+        "label": "B",
+        "text": "《辛丑条约》"
+      },
+      {
+        "label": "C",
+        "text": "《五口通商章程》"
+      },
+      {
+        "label": "D",
+        "text": "《南京条约》"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063892",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "下列选项中，关于十一届三中全会说法错误的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "它标志着中国共产党重新确立了马克思主义的思想路线"
+      },
+      {
+        "label": "B",
+        "text": "它揭开了改革开放的序幕"
+      },
+      {
+        "label": "C",
+        "text": "实现了新中国成立以来党的历史上具有深远意义的伟大转折"
+      },
+      {
+        "label": "D",
+        "text": "它确立科学发展观为党的指导思想"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063893",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1954年，（ ）第一次会议在北京召开，人民代表大会制度这一新中国的根本政治制度从此建立。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中华人民共和国第四届全国人民代表大会"
+      },
+      {
+        "label": "B",
+        "text": "中华人民共和国第三届全国人民代表大会"
+      },
+      {
+        "label": "C",
+        "text": "中华人民共和国第二届全国人民代表大会"
+      },
+      {
+        "label": "D",
+        "text": "中华人民共和国第一届全国人民代表大会"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063894",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "\"军叫工农革命，旗号镰刀斧头。地主重重压迫,农民个个同仇。秋收时节幕云愁，霹雳一声暴动\"（毛泽东1927年一首词），这首词赞颂的是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "秋收起义"
+      },
+      {
+        "label": "B",
+        "text": "南昌起义"
+      },
+      {
+        "label": "C",
+        "text": "上海工人起义"
+      },
+      {
+        "label": "D",
+        "text": "广州起义"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063895",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "毛泽东在《中国革命与中国共产党》中指出：“帝国主义列强经过借款给中国政府，并在中国开设银行，垄断了中国的财政和金融，在金融、财政上扼住了中国的咽喉。”这表明帝国主义列强此举是为了（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "操控中国的经济命脉"
+      },
+      {
+        "label": "B",
+        "text": "向中国倾销商品"
+      },
+      {
+        "label": "C",
+        "text": "控制中国的通商口岸"
+      },
+      {
+        "label": "D",
+        "text": "进行文化渗透"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063896",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "孙中山是伟大的民主革命的先行者，他一生中最突出的历史功绩是领导了（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "洋务运动"
+      },
+      {
+        "label": "B",
+        "text": "戊戌变法"
+      },
+      {
+        "label": "C",
+        "text": "辛亥革命"
+      },
+      {
+        "label": "D",
+        "text": "新文化运动"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063897",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "吴佩孚、孙传芳都为北洋军阀一代枭雄，二者势力范围遍及长江中下游地区。然而进入1927年后，二者势力灰飞烟灭，长江流域被国民革命军所占领，造成这一局势发生巨变的原因是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "护国运动"
+      },
+      {
+        "label": "B",
+        "text": "护法运动"
+      },
+      {
+        "label": "C",
+        "text": "广东战争"
+      },
+      {
+        "label": "D",
+        "text": "北伐战争"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063898",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "五四运动之所以能够发生并取得胜利，在于新的社会力量的成长和参与，新的社会力量是指（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "农民阶级"
+      },
+      {
+        "label": "B",
+        "text": "地主阶级"
+      },
+      {
+        "label": "C",
+        "text": "民族资产阶级"
+      },
+      {
+        "label": "D",
+        "text": "工人阶级"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063899",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "北伐战争讨伐的军阀是（ ）。①吴佩孚②孙传芳③张作霖④段祺瑞",
+    "options": [
+      {
+        "label": "A",
+        "text": "①②③"
+      },
+      {
+        "label": "B",
+        "text": "②③④"
+      },
+      {
+        "label": "C",
+        "text": "①③④"
+      },
+      {
+        "label": "D",
+        "text": "①②③④"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063900",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1946年6月全面内战爆发时，国民党军队首先进攻的地区是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中原解放区"
+      },
+      {
+        "label": "B",
+        "text": "东北解放区"
+      },
+      {
+        "label": "C",
+        "text": "山东解放区"
+      },
+      {
+        "label": "D",
+        "text": "陕甘宁解放区"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063901",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1919年，中国大地爆发了震惊中外的五四运动，这是中国近现代史上具有划时代意义的一个重大事件。2019年是五四运动100周年，五四运动，孕育了伟大五四精神，其核心是（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "爱国主义"
+      },
+      {
+        "label": "B",
+        "text": "民主精神"
+      },
+      {
+        "label": "C",
+        "text": "科学精神"
+      },
+      {
+        "label": "D",
+        "text": "创新精神"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063902",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国革命的主要斗争形式是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "武装斗争"
+      },
+      {
+        "label": "B",
+        "text": "非武装斗争"
+      },
+      {
+        "label": "C",
+        "text": "议会选举"
+      },
+      {
+        "label": "D",
+        "text": "民主改革运动"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063903",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "标志着我国全面确立社会主义基本经济制度的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "社会主义改造的完成"
+      },
+      {
+        "label": "B",
+        "text": "\"一五\"计划的完成"
+      },
+      {
+        "label": "C",
+        "text": "新中国的成立"
+      },
+      {
+        "label": "D",
+        "text": "中共八大的召开"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063904",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中共二大提出了资产阶级、小资产阶级政党从没有采取过的革命方法是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "群众路线方法"
+      },
+      {
+        "label": "B",
+        "text": "和平斗争方法"
+      },
+      {
+        "label": "C",
+        "text": "联省自治"
+      },
+      {
+        "label": "D",
+        "text": "议会斗争方法"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063905",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "标志着第一次国共合作全面破裂的事件是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "北伐战争"
+      },
+      {
+        "label": "B",
+        "text": "七·一五反革命政变"
+      },
+      {
+        "label": "C",
+        "text": "中山舰事件"
+      },
+      {
+        "label": "D",
+        "text": "孙中山的病逝"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063906",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1937年夏，毛泽东在《实践论》中指出：“通过实践而发现真理，又通过实践而证实真理和发展真理。从感性认识而能动地发展到理性认识，又从理性认识而能动地指导革命实践，改造主观世界和客观世界。”这句话深入论证了（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "“农村包围城市、武装夺取政权”的理论"
+      },
+      {
+        "label": "B",
+        "text": "土地革命路线和土地分配方法"
+      },
+      {
+        "label": "C",
+        "text": "马克思列宁主义基本原理与中国具体实际相结合的原则"
+      },
+      {
+        "label": "D",
+        "text": "新民主主义理论"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063907",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "“军叫工农革命，旗号镰刀斧头。匡庐一带不停留，要向潇湘直进。地主重重压迫，农民个个同仇。秋收时节暮云愁，霹雳一声暴动。”对于这首诗词，下列说法错误的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "这首词是为纪念秋收起义而作"
+      },
+      {
+        "label": "B",
+        "text": "这首词说明了地主与农民的阶级矛盾"
+      },
+      {
+        "label": "C",
+        "text": "这首词说明起义军打出了“工农革命军”的旗号"
+      },
+      {
+        "label": "D",
+        "text": "这首词中的“潇湘”指山西"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063908",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "太平天国政权前期颁布的纲领性文件是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《原道觉世训》"
+      },
+      {
+        "label": "B",
+        "text": "《十款天条》"
+      },
+      {
+        "label": "C",
+        "text": "《原道醒世训》"
+      },
+      {
+        "label": "D",
+        "text": "《天朝田亩制度》"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063909",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "下列事件按时间顺序排列正确的是（ ）。 ①开展北伐战争 ②吴佩孚、孙传芳主力被消灭；③第一次国共合作实现；④创办黄埔军校",
+    "options": [
+      {
+        "label": "A",
+        "text": "①②③④"
+      },
+      {
+        "label": "B",
+        "text": "③④②①"
+      },
+      {
+        "label": "C",
+        "text": "③④①②"
+      },
+      {
+        "label": "D",
+        "text": "②①③④"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063910",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "《中华民国临时约法》是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "中国第一部资产阶级性质的成文法"
+      },
+      {
+        "label": "B",
+        "text": "一部社会主义性质的宪法"
+      },
+      {
+        "label": "C",
+        "text": "一部仍然带有封建色彩的宪法"
+      },
+      {
+        "label": "D",
+        "text": "一部代表无产阶级利益的宪法"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063911",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "红军长征的起止时间是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "1934年10月-1936年10月"
+      },
+      {
+        "label": "B",
+        "text": "1934年10月-1935年10月"
+      },
+      {
+        "label": "C",
+        "text": "1935年10月-1936年10月"
+      },
+      {
+        "label": "D",
+        "text": "1934年10月-1935年5月"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063912",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "第五章第二节题目为“中国革命在曲折中前进”，对于“曲折”理解正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "由于受陈独秀右倾机会主义错误影响，中国共产党在反革命政变中遭受严重损失"
+      },
+      {
+        "label": "B",
+        "text": "1927年9月，秋收起义失败后，毛泽东率领部队被迫退出长沙，转向井冈山"
+      },
+      {
+        "label": "C",
+        "text": "1927年11月，广州起义失败，起义部队被迫撤出广州"
+      },
+      {
+        "label": "D",
+        "text": "20世纪30年代前中期，中国共产党屡次出现左倾错误，导致第五次反围剿的失败和长征初期红军惨重的损失"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063913",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1927年大革命失败以后，国民党的性质发生了根本的变化，此时的国民党已经变成（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "以无产阶级为基础的工人阶级革命政党"
+      },
+      {
+        "label": "B",
+        "text": "以民族资产阶级为基础的资产阶级革命政党"
+      },
+      {
+        "label": "C",
+        "text": "以工人、农民、民族资产阶级为基础的革命联盟"
+      },
+      {
+        "label": "D",
+        "text": "代表地主阶级、买办性的大资产阶级利益的反动集团所控制的政党"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063914",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "（）把习近平新时代中国特色社会主义思想确立为党必须长期坚持的指导思想并庄严地写入党章。",
+    "options": [
+      {
+        "label": "A",
+        "text": "党的十八大"
+      },
+      {
+        "label": "B",
+        "text": "党的十九大"
+      },
+      {
+        "label": "C",
+        "text": "党的十八届三中全会"
+      },
+      {
+        "label": "D",
+        "text": "党的十九届四中全会"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063915",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1919年，发表《我的马克思主义观》一文，对马克思主义基本内容作了比较系统阐述的是（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "毛泽东"
+      },
+      {
+        "label": "B",
+        "text": "李大钊"
+      },
+      {
+        "label": "C",
+        "text": "蔡和森"
+      },
+      {
+        "label": "D",
+        "text": "杨匏安"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063916",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "在1919年五四运动之前，新文化运动领导人大力宣扬资产阶级民主主义，他们主要是凭借此思想来批判（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "封建主义思想"
+      },
+      {
+        "label": "B",
+        "text": "社会主义思想"
+      },
+      {
+        "label": "C",
+        "text": "三民主义思想"
+      },
+      {
+        "label": "D",
+        "text": "无政府主义思想"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063917",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "继延安整风之后又一场马克思主义思想解放运动是指（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "中共十一届三中全会"
+      },
+      {
+        "label": "B",
+        "text": "十一届三中全会前的中央工作会议"
+      },
+      {
+        "label": "C",
+        "text": "关于真理标准问题的大讨论"
+      },
+      {
+        "label": "D",
+        "text": "中共十三大"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063918",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1984年10月，中共十二届三中全会通过了《中共中央关于经济体制改革的决定》，在社会主义经济理论上的重大突破是()。",
+    "options": [
+      {
+        "label": "A",
+        "text": "指出我国社会主义经济是在公有制基础上的有计划的商品经济"
+      },
+      {
+        "label": "B",
+        "text": "指出计划与市场都是手段"
+      },
+      {
+        "label": "C",
+        "text": "指出社会主义也可以搞市场经济"
+      },
+      {
+        "label": "D",
+        "text": "指出社会主义只能以计划经济为主，以市场调节为辅"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063919",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1937年7月，日本帝国主义制造了开始全面侵华战争的（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "卢沟桥事变"
+      },
+      {
+        "label": "B",
+        "text": "一 二八事变"
+      },
+      {
+        "label": "C",
+        "text": "华北事变"
+      },
+      {
+        "label": "D",
+        "text": "九 一八事变"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063920",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1931年，毛泽东和邓子恢等人共同制定了根据地土地分配方法。下列内容中属于这一方法的是（ ）。 ①以乡为单位 ②按人口平分土地③实行抽多补少④实行抽肥补瘦",
+    "options": [
+      {
+        "label": "A",
+        "text": "②③④"
+      },
+      {
+        "label": "B",
+        "text": "①②③"
+      },
+      {
+        "label": "C",
+        "text": "①②④"
+      },
+      {
+        "label": "D",
+        "text": "①②③④"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063921",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中华民族的抗日战争始于（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "一二九运动"
+      },
+      {
+        "label": "B",
+        "text": "七七事变"
+      },
+      {
+        "label": "C",
+        "text": "九一八事变"
+      },
+      {
+        "label": "D",
+        "text": "西安事变"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063922",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "2017年为中国人民解放军建军90周年，这一重要纪念日是为纪念哪一事件而设立。（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "武昌起义"
+      },
+      {
+        "label": "B",
+        "text": "秋收起义"
+      },
+      {
+        "label": "C",
+        "text": "广州起义"
+      },
+      {
+        "label": "D",
+        "text": "南昌起义"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063923",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1914年至1918年的第一次世界大战，是一场空前残酷的大屠杀。它改变了世界政治的格局，也改变了各帝国主义国家在中国的利益格局，大战对中国产生了巨大的影响。大战使中国的先进分子(       )",
+    "options": [
+      {
+        "label": "A",
+        "text": "对西方资产阶级民主主义产生怀疑"
+      },
+      {
+        "label": "B",
+        "text": "对中国传统文化产生怀疑"
+      },
+      {
+        "label": "C",
+        "text": "认识到必须优先改造国民性"
+      },
+      {
+        "label": "D",
+        "text": "认识到工人阶级的重要作用"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063924",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1923年2月，京汉铁路罢工因遭到北洋政府镇压而失败，为此中共认为要取得革命胜利就必须（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "建立革命统一战线"
+      },
+      {
+        "label": "B",
+        "text": "加强党的思想建设"
+      },
+      {
+        "label": "C",
+        "text": "取得共产国际支持"
+      },
+      {
+        "label": "D",
+        "text": "独立领导武装斗争"
+      }
+    ],
+    "answer": "A",
+    "verified": false
+  },
+  {
+    "questionId": "886063925",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "下列关于辛亥革命历史意义的表述，不正确的一项是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "彻底推翻了帝国主义和封建主义的反动统治，完成了民主革命任务"
+      },
+      {
+        "label": "B",
+        "text": "推翻了清王朝，结束了中国两千多年的封建制度"
+      },
+      {
+        "label": "C",
+        "text": "为民族资本主义的发展创造了条件"
+      },
+      {
+        "label": "D",
+        "text": "使民主共和观念深入人心"
+      }
+    ],
+    "answer": "B",
+    "verified": false
+  },
+  {
+    "questionId": "886063926",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "长征初期，由于受“\n左\n”倾错误影响，红军损失惨重，为了改变错误的领导，1935年1月中共中央召开了（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中共八大"
+      },
+      {
+        "label": "B",
+        "text": "遵义会议"
+      },
+      {
+        "label": "C",
+        "text": "中共六届六中全会"
+      },
+      {
+        "label": "D",
+        "text": "中共七届七中全会"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063927",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "新文化运动的主要宣传杂志是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《民报》"
+      },
+      {
+        "label": "B",
+        "text": "《新民丛报》"
+      },
+      {
+        "label": "C",
+        "text": "《人民日报》"
+      },
+      {
+        "label": "D",
+        "text": "《新青年》"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063928",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "在封建社会时期，许多国人主张莫谈国事，对于国家之事不闻不问。而在1919年，国人听闻巴黎和会中国外交失败的消息，纷纷走向街头游行示威。造成这一强烈反差的主要原因在于（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "三民主义思想的传播"
+      },
+      {
+        "label": "B",
+        "text": "新文化运动掀起了思想解放潮流，启迪了民智"
+      },
+      {
+        "label": "C",
+        "text": "资本主义民族工业的发展"
+      },
+      {
+        "label": "D",
+        "text": "孙中山的大力倡导和推动"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063929",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中共二大提出“党的一切运动都必须深入到广大群众里面去。”这表明当时中国共产党所采取的革命方法是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "武装斗争"
+      },
+      {
+        "label": "B",
+        "text": "土地革命"
+      },
+      {
+        "label": "C",
+        "text": "群众路线"
+      },
+      {
+        "label": "D",
+        "text": "和平改良"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063930",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1927—1935年间，中国共产党内曾屡次出现\n“左”\n倾错误，其中使中国革命遭受损失最为严重的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "以瞿秋白为代表的\n“左”\n倾盲动主义错误"
+      },
+      {
+        "label": "B",
+        "text": "以王明为代表的\n“左”\n倾教条主义错误"
+      },
+      {
+        "label": "C",
+        "text": "以李立三为代表的\n“左”\n倾冒险主义错误"
+      },
+      {
+        "label": "D",
+        "text": "以陈独秀为代表的右倾机会主义错误"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063931",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "维新变法期间，守旧派与维新派就要不要变法展开了激烈的辩论，守旧派提出：“祖宗之法不可变”，若你是维新派，你该如何反驳（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "变法百害无一益"
+      },
+      {
+        "label": "B",
+        "text": "宁可亡国，不可变法"
+      },
+      {
+        "label": "C",
+        "text": "变法乃奇技淫巧"
+      },
+      {
+        "label": "D",
+        "text": "变者天下之公理也"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063932",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "实现了中国人民和中华民族自鸦片战争以来第一次全面觉醒的历史事件是（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "第二次鸦片战争"
+      },
+      {
+        "label": "B",
+        "text": "甲午战争"
+      },
+      {
+        "label": "C",
+        "text": "五四运动"
+      },
+      {
+        "label": "D",
+        "text": "维新运动"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063933",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "《天朝田亩制度》确立的平分土地的原则是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "凡天下田，天下人同耕"
+      },
+      {
+        "label": "B",
+        "text": "平均地权"
+      },
+      {
+        "label": "C",
+        "text": "均贫富、等贵贱"
+      },
+      {
+        "label": "D",
+        "text": "免劳役、不纳粮"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063934",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "法国议会在辩论对华政策时，一位法国议员指出：“中国土地广阔、民气坚劲。”“吾故瓜分之说，不啻梦呓也。”表明列强不能灭亡和瓜分中国，最根本的原因是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "列强之间的矛盾"
+      },
+      {
+        "label": "B",
+        "text": "中华民族进行的不屈不挠的反侵略斗争"
+      },
+      {
+        "label": "C",
+        "text": "列强之间相互制约"
+      },
+      {
+        "label": "D",
+        "text": "列强之间的妥协"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063935",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "“红军不怕远征难，万水千山只等闲。五岭逶迤腾细浪，乌蒙磅礴走泥丸。金沙水拍云崖暖，大渡桥横铁索寒。更喜岷山千里雪，三军过后尽开颜。”下列选项中对于这首诗理解错误的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "这首诗主要是描写红军创建井冈山革命根据地的情况"
+      },
+      {
+        "label": "B",
+        "text": "“金沙水拍云崖暖”指红军巧渡金沙江"
+      },
+      {
+        "label": "C",
+        "text": "“大渡桥横铁索寒”指红军强渡大渡河"
+      },
+      {
+        "label": "D",
+        "text": "“更喜岷山千里雪，三军过后尽开颜”指红军翻越雪山"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063936",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1923年，直系军阀吴佩孚镇压京汉铁路工人大罢工制造的惨案是（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "二七惨案"
+      },
+      {
+        "label": "B",
+        "text": "济南惨案"
+      },
+      {
+        "label": "C",
+        "text": "下关惨案"
+      },
+      {
+        "label": "D",
+        "text": "校场口惨案"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063937",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1935年8月1日，中共驻共产国际代表团发表（），呼吁一致抗日。",
+    "options": [
+      {
+        "label": "A",
+        "text": "停止内战一致抗日"
+      },
+      {
+        "label": "B",
+        "text": "为抗日救国告全体同胞书"
+      },
+      {
+        "label": "C",
+        "text": "停战议和一致抗日"
+      },
+      {
+        "label": "D",
+        "text": "反日反蒋的初步协定"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063938",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "从1898年6月11日到9月21日，光绪帝颁布了一系列变法上谕，史称（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "戊戌政变"
+      },
+      {
+        "label": "B",
+        "text": "自强求富"
+      },
+      {
+        "label": "C",
+        "text": "百日维新"
+      },
+      {
+        "label": "D",
+        "text": "公车上书"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063939",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "八七会议强调“党的现实最主要的任务是有系统地、有计划地、尽可能地在广大区域内准备农民的总暴动。会议决定调派最积极的、坚强的、有斗争经验的同志，到各主要省区发动和领导农民暴动，组织工农革命军队，建立工农革命政权，解决农民土地问题。”这表明，八七会议确立了（ ）的总方针。",
+    "options": [
+      {
+        "label": "A",
+        "text": "土地革命和武装起义"
+      },
+      {
+        "label": "B",
+        "text": "和平改良"
+      },
+      {
+        "label": "C",
+        "text": "与国民党继续合作"
+      },
+      {
+        "label": "D",
+        "text": "领导工人举行和平示威"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063940",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国共产党在过渡时期总路线的主体是实现( )",
+    "options": [
+      {
+        "label": "A",
+        "text": "社会主义工业化"
+      },
+      {
+        "label": "B",
+        "text": "对农业的社会主义改造"
+      },
+      {
+        "label": "C",
+        "text": "对手工业的社会主义改造"
+      },
+      {
+        "label": "D",
+        "text": "对资本主义工商业的社会主义改造"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063941",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "为了加强根据地政权建设，中国共产党实行\"三三制\"原则是在（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "改革开放以后"
+      },
+      {
+        "label": "B",
+        "text": "辛亥革命时期"
+      },
+      {
+        "label": "C",
+        "text": "抗日战争时期"
+      },
+      {
+        "label": "D",
+        "text": "洋务运动时期"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063942",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "张三1856年出生，1956年去世，他没有经历的战争是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "鸦片战争"
+      },
+      {
+        "label": "B",
+        "text": "国民大革命"
+      },
+      {
+        "label": "C",
+        "text": "抗日战争"
+      },
+      {
+        "label": "D",
+        "text": "解放战争"
+      }
+    ],
+    "answer": "A",
+    "verified": false
+  },
+  {
+    "questionId": "886063943",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "洋务派兴办洋务事业的指导思想是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"适者生存\""
+      },
+      {
+        "label": "B",
+        "text": "\"救亡图存\""
+      },
+      {
+        "label": "C",
+        "text": "\"中学为体，西学为用\""
+      },
+      {
+        "label": "D",
+        "text": "\"能变则全，不变则亡\""
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063944",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "标志着中国民族资产阶级开始登上政治舞台的运动是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "太平天国起义"
+      },
+      {
+        "label": "B",
+        "text": "戊戌维新运动"
+      },
+      {
+        "label": "C",
+        "text": "国会请愿运动"
+      },
+      {
+        "label": "D",
+        "text": "保路运动"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063945",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "毛泽东说：大革命失败以后“就是由于国民党搞白色恐怖，把工会、农会都打掉了，把五万共产党员杀了一大批，我们才拿起枪来，上山打游击。”对于这句话理解错误的是（ ） 。",
+    "options": [
+      {
+        "label": "A",
+        "text": "这句话表明大革命失败后中国共产党面临着艰难的外部环境"
+      },
+      {
+        "label": "B",
+        "text": "国民党的屠杀政策使中国共产党决定采取武装反抗国民党的方针"
+      },
+      {
+        "label": "C",
+        "text": "这句话表明国共关系没有破裂，双方仍在合作当中"
+      },
+      {
+        "label": "D",
+        "text": "“上山打游击”指中共转移至农村区域开展武装斗争"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063946",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "建国初期，捍卫了亚洲与世界和平，保卫了国家独立，提高了中国国际地位的事件是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "抗美援朝"
+      },
+      {
+        "label": "B",
+        "text": "《共同纲领》的颁布"
+      },
+      {
+        "label": "C",
+        "text": "西藏和平解放"
+      },
+      {
+        "label": "D",
+        "text": "土地改革"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063947",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1872年，12岁的詹天佑作为中国第一批官派留学生赴美学习，为日后创造铁路建设的突出成就奠定了基础，詹天佑赴美留学，与哪一事件有关（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "辛亥革命"
+      },
+      {
+        "label": "B",
+        "text": "洋务运动"
+      },
+      {
+        "label": "C",
+        "text": "维新变法运动"
+      },
+      {
+        "label": "D",
+        "text": "新文化运动"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063948",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1842年，中英《南京条约》开放的通商口岸是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "广州、汉口、福州、南京、上海"
+      },
+      {
+        "label": "B",
+        "text": "广州、厦门、福州、宁波、上海"
+      },
+      {
+        "label": "C",
+        "text": "广州、厦门、福州、南京、上海"
+      },
+      {
+        "label": "D",
+        "text": "广州、汉口、福州、宁波、上海"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063949",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "辛亥革命的性质是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "资产阶级民主主义革命"
+      },
+      {
+        "label": "B",
+        "text": "无产阶级社会主义革命"
+      },
+      {
+        "label": "C",
+        "text": "新民主主义革命"
+      },
+      {
+        "label": "D",
+        "text": "资产阶级维新运动"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063950",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "对资本主义工商业进行社会主义改造，就是要把民族资本主义工商业改造成为社会主义性质的企业，并对民族资产阶级实行（）政策。",
+    "options": [
+      {
+        "label": "A",
+        "text": "改造"
+      },
+      {
+        "label": "B",
+        "text": "过渡"
+      },
+      {
+        "label": "C",
+        "text": "赎买"
+      },
+      {
+        "label": "D",
+        "text": "代销"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063951",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "王明“\n左\n”倾教条主义错误在革命道路问题上坚持（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "革命以农村为中心"
+      },
+      {
+        "label": "B",
+        "text": "在农村开展土地革命"
+      },
+      {
+        "label": "C",
+        "text": "以城市为中心"
+      },
+      {
+        "label": "D",
+        "text": "将民族资产阶级作为革命最危险的敌人"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063952",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "有人认为，从洋务运动到戊戌变法是革新道路上的“量变”，辛亥革命是个“飞跃”，这里的“飞跃”是指辛亥革命（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "推翻了封建制度"
+      },
+      {
+        "label": "B",
+        "text": "推翻了帝国主义在中国的统治"
+      },
+      {
+        "label": "C",
+        "text": "结束了两千多年的封建帝制"
+      },
+      {
+        "label": "D",
+        "text": "使中国进入了社会主义社会"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063953",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国共产党党内连续出现“左”倾错误，其主要原因在于（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "共产国际的瞎指挥"
+      },
+      {
+        "label": "B",
+        "text": "八七会议后党内\n“左”\n倾情绪没有得到清理"
+      },
+      {
+        "label": "C",
+        "text": "党员政治信仰不坚定"
+      },
+      {
+        "label": "D",
+        "text": "不善于将马克思主义理论与中国革命的实践相结合"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063954",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "三大主力红军长征胜利结束的标志是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "遵义会议的召开"
+      },
+      {
+        "label": "B",
+        "text": "1936年10月，红军三大主力在甘肃会宁、静宁将台堡会师"
+      },
+      {
+        "label": "C",
+        "text": "1935年6月，中央红军与红四方面军会师"
+      },
+      {
+        "label": "D",
+        "text": "1935年11月，中央红军与红十五军团会师"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063955",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "太平天国的最高领导者是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "洪秀全"
+      },
+      {
+        "label": "B",
+        "text": "石达开"
+      },
+      {
+        "label": "C",
+        "text": "韦昌辉"
+      },
+      {
+        "label": "D",
+        "text": "杨秀清"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063956",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "新中国发展国民经济的第一个五年计划期间是指（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "1953-1957年"
+      },
+      {
+        "label": "B",
+        "text": "1949-1954年"
+      },
+      {
+        "label": "C",
+        "text": "1952-1956年"
+      },
+      {
+        "label": "D",
+        "text": "1950-1955年"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063957",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "最能体现太平天国的社会理想的纲领性文件是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《天朝田亩制度》"
+      },
+      {
+        "label": "B",
+        "text": "《原道救世歌》"
+      },
+      {
+        "label": "C",
+        "text": "《资政新篇》"
+      },
+      {
+        "label": "D",
+        "text": "《天条书》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063958",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "全面抗日战争开始后，标志着国民政府抗战政策发生转变的事件是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "国民党五届五中全会的召开"
+      },
+      {
+        "label": "B",
+        "text": "日本政治诱降政策的抛出"
+      },
+      {
+        "label": "C",
+        "text": "晋西事变的发生"
+      },
+      {
+        "label": "D",
+        "text": "山西阎锡山部队进攻八路军"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063959",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "抗日根据地建设的首要的、根本的任务是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "加强政权建设"
+      },
+      {
+        "label": "B",
+        "text": "加强经济建设"
+      },
+      {
+        "label": "C",
+        "text": "加强文化建设"
+      },
+      {
+        "label": "D",
+        "text": "加强社会建设"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063960",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国特色社会主义进入新时代是我国发展新的( )",
+    "options": [
+      {
+        "label": "A",
+        "text": "历史方位"
+      },
+      {
+        "label": "B",
+        "text": "历史阶段"
+      },
+      {
+        "label": "C",
+        "text": "历史起点"
+      },
+      {
+        "label": "D",
+        "text": "历史使命"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063961",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1911年，标志辛亥革命达到高潮的起义是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "广州起义"
+      },
+      {
+        "label": "B",
+        "text": "河口起义"
+      },
+      {
+        "label": "C",
+        "text": "武昌起义"
+      },
+      {
+        "label": "D",
+        "text": "惠州起义"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063962",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "提出了以军事斗争作为党的工作重心的问题，提出“须知政权是由枪杆子中取得的”是（     ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "毛泽东"
+      },
+      {
+        "label": "B",
+        "text": "董必武"
+      },
+      {
+        "label": "C",
+        "text": "蔡和森"
+      },
+      {
+        "label": "D",
+        "text": "包惠僧"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063963",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "洋务运动失败的标志是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "北洋海军全军覆没"
+      },
+      {
+        "label": "B",
+        "text": "义和团运动兴起"
+      },
+      {
+        "label": "C",
+        "text": "八国联军入侵北京"
+      },
+      {
+        "label": "D",
+        "text": "英法联军攻占北京"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063964",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "抗日战争全面爆发的标志是（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "九一八事变"
+      },
+      {
+        "label": "B",
+        "text": "七七事变"
+      },
+      {
+        "label": "C",
+        "text": "八一三事变"
+      },
+      {
+        "label": "D",
+        "text": "一二八事变"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063965",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "下列选项中，哪个社会运动表现出了彻底的反帝反封建的属性。（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "洋务运动"
+      },
+      {
+        "label": "B",
+        "text": "戊戌维新运动"
+      },
+      {
+        "label": "C",
+        "text": "保路运动"
+      },
+      {
+        "label": "D",
+        "text": "五四运动"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063966",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "某高校为纪念八一建军节，组织学生开展“纪念八一南昌起义诗词创作大会”，下列学生创作的诗词中，哪一个与南昌起义没有关联。（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "八一枪响是宣言，武力才能取政权。"
+      },
+      {
+        "label": "B",
+        "text": "南昌义举惊天地，报国唯求壮志酬。"
+      },
+      {
+        "label": "C",
+        "text": "信奉刀枪出政权，南昌起义始挥鞭。"
+      },
+      {
+        "label": "D",
+        "text": "历史名城风景靓，秋收起义帜鲜明。"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063967",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1931年日本帝国主义制造了侵略中国的（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"一.二八\"事变"
+      },
+      {
+        "label": "B",
+        "text": "\"九.一八\"事变"
+      },
+      {
+        "label": "C",
+        "text": "\"七.七\"事变"
+      },
+      {
+        "label": "D",
+        "text": "\"八.一三\"事变"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063968",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "下列关于中共二大描述错误的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "这次会议将毛泽东思想确立为党的指导思想"
+      },
+      {
+        "label": "B",
+        "text": "这次会议在1922年7月召开"
+      },
+      {
+        "label": "C",
+        "text": "二大提出了反帝反封建的民主革命纲领"
+      },
+      {
+        "label": "D",
+        "text": "二大主张采用群众路线的方法来开展革命"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063969",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "辛亥革命后，被推举为中华民国临时大总统的是（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "黄兴"
+      },
+      {
+        "label": "B",
+        "text": "黎元洪"
+      },
+      {
+        "label": "C",
+        "text": "袁世凯"
+      },
+      {
+        "label": "D",
+        "text": "孙中山"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063970",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "国民党一大对民族主义重新予以了解释，新的民族主义突出哪方面内容。（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "推翻清政府"
+      },
+      {
+        "label": "B",
+        "text": "反对君主专制"
+      },
+      {
+        "label": "C",
+        "text": "联合中国共产党"
+      },
+      {
+        "label": "D",
+        "text": "反对帝国主义"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063971",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1920年8月，陈独秀、李汉俊、李达等人在（ ）成立了中国工人阶级政党最早的组织。",
+    "options": [
+      {
+        "label": "A",
+        "text": "上海"
+      },
+      {
+        "label": "B",
+        "text": "北京"
+      },
+      {
+        "label": "C",
+        "text": "武汉"
+      },
+      {
+        "label": "D",
+        "text": "广州"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063972",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "抗日根据地实行的土地政策是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "抽多补少，抽肥补瘦"
+      },
+      {
+        "label": "B",
+        "text": "地主减租减息，农民交租交息"
+      },
+      {
+        "label": "C",
+        "text": "“耕者有其田”政策"
+      },
+      {
+        "label": "D",
+        "text": "废除封建剥削"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063973",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "进入1919年6月，五四运动突破了知识分子的范围，开始成为一场全国范围的革命运动。其中发挥主力作用的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "工人阶级"
+      },
+      {
+        "label": "B",
+        "text": "青年学生"
+      },
+      {
+        "label": "C",
+        "text": "商人"
+      },
+      {
+        "label": "D",
+        "text": "地主阶级"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063974",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "19世纪末，列强掀起瓜分中国狂潮，将山东划为其势力范围的国家是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "英国"
+      },
+      {
+        "label": "B",
+        "text": "法国"
+      },
+      {
+        "label": "C",
+        "text": "德国"
+      },
+      {
+        "label": "D",
+        "text": "日本"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063975",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "民国著名诗人柳亚子在《题太平天国战史》中写到：“楚歌声里霸图空，血染胡天漫天红。煮豆燃萁谁管得，莫将成败论英雄。”诗中的“煮豆燃萁” 是指 ( )",
+    "options": [
+      {
+        "label": "A",
+        "text": "金田起义"
+      },
+      {
+        "label": "B",
+        "text": "天京事变"
+      },
+      {
+        "label": "C",
+        "text": "永安建制"
+      },
+      {
+        "label": "D",
+        "text": "天京陷落"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063976",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "抗战初期，国共两党两条不同抗战路线的关键区别是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "是否依靠人民群众"
+      },
+      {
+        "label": "B",
+        "text": "是否抵抗日本侵略"
+      },
+      {
+        "label": "C",
+        "text": "是否重视党的建设"
+      },
+      {
+        "label": "D",
+        "text": "是否进行游击战争"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063977",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "下列人物中，哪个不属于五四爱国运动的左翼骨干。（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "毛泽东"
+      },
+      {
+        "label": "B",
+        "text": "蒋介石"
+      },
+      {
+        "label": "C",
+        "text": "周恩来"
+      },
+      {
+        "label": "D",
+        "text": "蔡和森"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063978",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "《天朝田亩制度》的中心内容是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "解决土地问题"
+      },
+      {
+        "label": "B",
+        "text": "反对帝国主义的侵略"
+      },
+      {
+        "label": "C",
+        "text": "推翻清政府的统治"
+      },
+      {
+        "label": "D",
+        "text": "促进农副业生产发展"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063979",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "揭开人民解放军全国性战略进攻序幕的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "刘邓大军挺进大别山"
+      },
+      {
+        "label": "B",
+        "text": "孟良崮战役开始"
+      },
+      {
+        "label": "C",
+        "text": "三大战役开始"
+      },
+      {
+        "label": "D",
+        "text": "渡江战役开始"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063980",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "毛泽东指出：“孙中山得了苏联和中国共产党的助力，把三民主义重新做了解释，建立了三民主义和共产主义的统一战线。”孙中山对三民主义的重新解释是在（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "国民党五届五中全会"
+      },
+      {
+        "label": "B",
+        "text": "国民党一大"
+      },
+      {
+        "label": "C",
+        "text": "同盟会成立大会"
+      },
+      {
+        "label": "D",
+        "text": "中共三大"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063981",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "经历了五四运动后，（ ）开始在新文化运动中发挥主导作用了。",
+    "options": [
+      {
+        "label": "A",
+        "text": "无政府主义"
+      },
+      {
+        "label": "B",
+        "text": "三民主义"
+      },
+      {
+        "label": "C",
+        "text": "改良主义"
+      },
+      {
+        "label": "D",
+        "text": "马克思主义"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063982",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中共中央发表的《抗日救国十大纲领》指出，打倒日本帝国主义关键在于（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "发动独立自主的游击战"
+      },
+      {
+        "label": "B",
+        "text": "使抗战成为全面的全民族的抗战"
+      },
+      {
+        "label": "C",
+        "text": "国民党正面战场应发挥主导作用"
+      },
+      {
+        "label": "D",
+        "text": "坚持无产阶级的领导权"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063983",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "标志着中国人民抗日救亡运动新高潮到来的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "十九路军抗战"
+      },
+      {
+        "label": "B",
+        "text": "卢沟桥抗战"
+      },
+      {
+        "label": "C",
+        "text": "华北事变"
+      },
+      {
+        "label": "D",
+        "text": "一二 九运动"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063984",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "解放战争时期，明确规定废除封建性及半封建性剥削的土地制度的文献是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《中国土地法大纲》"
+      },
+      {
+        "label": "B",
+        "text": "《关于清算、减租及土地问题的指示》"
+      },
+      {
+        "label": "C",
+        "text": "《天朝田亩制度》"
+      },
+      {
+        "label": "D",
+        "text": "《中华民国临时约法》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063985",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国共产党在社会主义初级阶段基本路线的“一个中心”是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "以改革开放为中心"
+      },
+      {
+        "label": "B",
+        "text": "以坚持四项基本原则为中心"
+      },
+      {
+        "label": "C",
+        "text": "以经济建设为中心"
+      },
+      {
+        "label": "D",
+        "text": "以科学发展、社会和谐为中心"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063986",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "确立了毛泽东在党中央和红军的领导地位，中国共产党历史上一次重大转折点的重要会议是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "遵义会议"
+      },
+      {
+        "label": "B",
+        "text": "八七会议"
+      },
+      {
+        "label": "C",
+        "text": "瓦窑堡会议"
+      },
+      {
+        "label": "D",
+        "text": "中共七大"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063987",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "五四运动后，辛亥革命时期著名的活动家吴玉章说：“通过十月革命和五四运动的教育，必须依靠下层人民，必须走俄国人的道路，这种思想在我头脑中日益明确了。”这表明 （）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "经历了五四运动后，一些辛亥革命时期的活动家开始走上马克思主义道路"
+      },
+      {
+        "label": "B",
+        "text": "俄国人的道路指资产阶级革命道路"
+      },
+      {
+        "label": "C",
+        "text": "吴玉章仍然主张资本主义道路可以救中国"
+      },
+      {
+        "label": "D",
+        "text": "吴玉章主张民族资产阶级是中国革命的主力"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063988",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "井冈山根据地的建立与巩固（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "开辟了农村包围城市、武装夺取政权的道路"
+      },
+      {
+        "label": "B",
+        "text": "确立党对军队的绝对领导"
+      },
+      {
+        "label": "C",
+        "text": "是中共独立领导武装斗争的开端"
+      },
+      {
+        "label": "D",
+        "text": "是土地革命战争时期的开始标志"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063989",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1945年8月至10月，国共双方举行了确认和平建国基本方针的（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "北平谈判"
+      },
+      {
+        "label": "B",
+        "text": "西安谈判"
+      },
+      {
+        "label": "C",
+        "text": "南京谈判"
+      },
+      {
+        "label": "D",
+        "text": "重庆谈判"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886063990",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "提出了以军事斗争作为党的工作重心的问题，提出\"须知政权是由枪杆子中取得的\"是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "毛泽东"
+      },
+      {
+        "label": "B",
+        "text": "周恩来"
+      },
+      {
+        "label": "C",
+        "text": "瞿秋白"
+      },
+      {
+        "label": "D",
+        "text": "蔡和森"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063991",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "帝国主义列强对中国进行文化渗透的目的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "宣扬殖民主义奴化思想，麻醉中国人民的精神，摧毁中国人民的民族自尊心和自信心"
+      },
+      {
+        "label": "B",
+        "text": "进行传教活动"
+      },
+      {
+        "label": "C",
+        "text": "传播西方文化和科学"
+      },
+      {
+        "label": "D",
+        "text": "干涉中国内政"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063992",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "近代以来中华民族第一次取得反侵略完全胜利的战争是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中国人民抗日战争"
+      },
+      {
+        "label": "B",
+        "text": "甲午中日战争"
+      },
+      {
+        "label": "C",
+        "text": "中法战争"
+      },
+      {
+        "label": "D",
+        "text": "抗美援朝战争"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063993",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国封建社会宗法等级制度的核心是(   )",
+    "options": [
+      {
+        "label": "A",
+        "text": "父权"
+      },
+      {
+        "label": "B",
+        "text": "夫权"
+      },
+      {
+        "label": "C",
+        "text": "宗族家长制"
+      },
+      {
+        "label": "D",
+        "text": "君权"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063994",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1905年11月，孙中山在《民报》发刊词中将中国同盟会的政治纲领概括为“三民主义”包括：（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "民族主义、民权主义、民生主义"
+      },
+      {
+        "label": "B",
+        "text": "无处不均匀、无人不保暖、无地不分配"
+      },
+      {
+        "label": "C",
+        "text": "创立民国、平均地权"
+      },
+      {
+        "label": "D",
+        "text": "有田同耕、有饭同食、有衣同穿"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063995",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "三民主义不包括（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "民主主义"
+      },
+      {
+        "label": "B",
+        "text": "民权主义"
+      },
+      {
+        "label": "C",
+        "text": "民族主义"
+      },
+      {
+        "label": "D",
+        "text": "民生主义"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063996",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国梦的核心内涵是( )。",
+    "options": [
+      {
+        "label": "A",
+        "text": "以经济建设为中心"
+      },
+      {
+        "label": "B",
+        "text": "改革开放"
+      },
+      {
+        "label": "C",
+        "text": "实现中华民族伟大复兴"
+      },
+      {
+        "label": "D",
+        "text": "构建和谐世界"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886063997",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "近代中国，曾统治台湾半个世纪的国家是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "日本"
+      },
+      {
+        "label": "B",
+        "text": "葡萄牙"
+      },
+      {
+        "label": "C",
+        "text": "俄国"
+      },
+      {
+        "label": "D",
+        "text": "英国"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886063998",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "太平天国后期，由洪仁玕提出的带有鲜明资本主义色彩的改革与建设方案是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《原道救世歌》"
+      },
+      {
+        "label": "B",
+        "text": "《资政新篇》"
+      },
+      {
+        "label": "C",
+        "text": "《天朝田亩制度》"
+      },
+      {
+        "label": "D",
+        "text": "《原道觉世训》"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886063999",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "戊戌政变后，新政措施大都被废除，被保留下来的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "准许旗人自谋生计"
+      },
+      {
+        "label": "B",
+        "text": "京师大学堂"
+      },
+      {
+        "label": "C",
+        "text": "改革财政"
+      },
+      {
+        "label": "D",
+        "text": "改革行政机构"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064000",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "全国性抗战开始后中国军队取得第一次重大胜利，粉碎了日军不可战胜的神话的战役是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "平型关大捷"
+      },
+      {
+        "label": "B",
+        "text": "雁门关伏击战"
+      },
+      {
+        "label": "C",
+        "text": "奇袭阳明堡机场"
+      },
+      {
+        "label": "D",
+        "text": "台儿庄战役"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064001",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1948年1月，中国民主同盟在香港召开（ ），宣布不接受解散民盟的任何决定，并恢复民盟总部。",
+    "options": [
+      {
+        "label": "A",
+        "text": "新政协筹备会"
+      },
+      {
+        "label": "B",
+        "text": "七届二中全会"
+      },
+      {
+        "label": "C",
+        "text": "政治协商会议"
+      },
+      {
+        "label": "D",
+        "text": "民盟一届三中全会"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064002",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "作出把党和国家的工作重点转移到社会主义现代化建设上来和实行改革开放的战略决策的会议是（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "中共十一届三中全会"
+      },
+      {
+        "label": "B",
+        "text": "中共十二届三中全会"
+      },
+      {
+        "label": "C",
+        "text": "中共十二大"
+      },
+      {
+        "label": "D",
+        "text": "中共十三大"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064003",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "抗日战争胜利后，国民党坚持的方针是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "民主、和平"
+      },
+      {
+        "label": "B",
+        "text": "独裁、内战"
+      },
+      {
+        "label": "C",
+        "text": "与中共坦诚合作"
+      },
+      {
+        "label": "D",
+        "text": "建立联合政府"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064004",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国封建社会政治的基本特征是(   )",
+    "options": [
+      {
+        "label": "A",
+        "text": "高度中央集权的君主专制制度"
+      },
+      {
+        "label": "B",
+        "text": "族权和政权相结合的宗法等级制度"
+      },
+      {
+        "label": "C",
+        "text": "共和制"
+      },
+      {
+        "label": "D",
+        "text": "分封制"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064005",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "陈独秀在中国共产党创建过程中发挥了重要作用，是因为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "他提倡民主与科学"
+      },
+      {
+        "label": "B",
+        "text": "他提倡用白话文取代文言文"
+      },
+      {
+        "label": "C",
+        "text": "他首先在上海创建了共产党的早期组织，并成为各地共产党早期组织的联络中心"
+      },
+      {
+        "label": "D",
+        "text": "他参与了辛亥革命"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064006",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "提出了“物竞天择”“适者生存”的社会进化论思想的著作是()",
+    "options": [
+      {
+        "label": "A",
+        "text": "《天演论》"
+      },
+      {
+        "label": "B",
+        "text": "《俄彼得变政纪》"
+      },
+      {
+        "label": "C",
+        "text": "《变法通议》"
+      },
+      {
+        "label": "D",
+        "text": "《仁》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064007",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1981年6月,中共十一届六中全会通过《关于建国以来党的若干历史问题的决议》,标志着指导思想上拨乱反正的胜利完成，其核心问题是()",
+    "options": [
+      {
+        "label": "A",
+        "text": "坚持改革开放"
+      },
+      {
+        "label": "B",
+        "text": "平反一批重大的冤、假、错案"
+      },
+      {
+        "label": "C",
+        "text": "解决一些“文化大革命”遗留的和历史遗留的问题"
+      },
+      {
+        "label": "D",
+        "text": "科学地评价毛泽东的历史功过，确立毛泽东思想的历史地位"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064008",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "资产阶级思想与封建主义思想在中国的第一次正面交锋是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"问题与主义\"之争"
+      },
+      {
+        "label": "B",
+        "text": "洋务派与守旧派的争论"
+      },
+      {
+        "label": "C",
+        "text": "革命派与维新派的论战"
+      },
+      {
+        "label": "D",
+        "text": "维新派与守旧派的论战"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064009",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "新文化运动的宣传口号其中之一为“民主”，这里的“民主”的含义是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "恢复原始社会氏族部落民主制度"
+      },
+      {
+        "label": "B",
+        "text": "倡导建立古希腊城邦民主体制"
+      },
+      {
+        "label": "C",
+        "text": "建立社会主义民主集中制"
+      },
+      {
+        "label": "D",
+        "text": "建立资产阶级民主主义的制度"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064010",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "梁启超指出：“吾国四千余年梦之唤醒，实自甲午战败割台湾、偿二百兆以后始也。”由此可以看出中国人民的民族意识开始普遍觉醒是在（ ）以后。",
+    "options": [
+      {
+        "label": "A",
+        "text": "甲午战争"
+      },
+      {
+        "label": "B",
+        "text": "北伐战争"
+      },
+      {
+        "label": "C",
+        "text": "解放战争"
+      },
+      {
+        "label": "D",
+        "text": "雅克萨之战"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064011",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "下列对新文化运动表述不正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "提出了“民主”与“科学”的口号"
+      },
+      {
+        "label": "B",
+        "text": "以北京大学和《新青年》杂志作为主要阵地"
+      },
+      {
+        "label": "C",
+        "text": "鼓励青年冲破封建思想束缚，去独立思考"
+      },
+      {
+        "label": "D",
+        "text": "它主张用封建儒家思想去改造国民"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064012",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "五四运动的直接导火线是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "巴黎和会上中国外交的失败"
+      },
+      {
+        "label": "B",
+        "text": "俄国十月革命的胜利"
+      },
+      {
+        "label": "C",
+        "text": "辛亥革命的失败"
+      },
+      {
+        "label": "D",
+        "text": "工人阶级和民族资产阶级力量的壮大"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064013",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1898年，中国民族资产阶级掀起的一场政治改良运动是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "护法运动"
+      },
+      {
+        "label": "B",
+        "text": "洋务运动"
+      },
+      {
+        "label": "C",
+        "text": "护国运动"
+      },
+      {
+        "label": "D",
+        "text": "戊戌维新运动"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064014",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1927年，汪精卫在武汉制造了屠杀共产党人和革命群众的（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "七一五政变"
+      },
+      {
+        "label": "B",
+        "text": "整理党务案事件"
+      },
+      {
+        "label": "C",
+        "text": "四一二政变"
+      },
+      {
+        "label": "D",
+        "text": "中山舰事件"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064015",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国的先进分子发起新文化运动的主要目的在于（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "发展资本主义民族工业"
+      },
+      {
+        "label": "B",
+        "text": "推翻清王朝封建统治"
+      },
+      {
+        "label": "C",
+        "text": "启迪民智，改造中国的国民性"
+      },
+      {
+        "label": "D",
+        "text": "倡导孔学思想，宣扬封建主义伦理道德"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064016",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "三民主义中民生主义的内容是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "驱除鞑虏"
+      },
+      {
+        "label": "B",
+        "text": "恢复中华"
+      },
+      {
+        "label": "C",
+        "text": "创立民国"
+      },
+      {
+        "label": "D",
+        "text": "平均地权"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064017",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1956年，毛泽东发表的《论十大关系》所围绕的基本方针是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "走中国特色社会主义道路"
+      },
+      {
+        "label": "B",
+        "text": "自力更生为主和争取外援为辅"
+      },
+      {
+        "label": "C",
+        "text": "调动一切积极因素为社会主义事业服务"
+      },
+      {
+        "label": "D",
+        "text": "正确处理人民内部矛盾"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064018",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1843年，魏源在《海国图志》中提出的思想主张是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "师夷长技以制夷"
+      },
+      {
+        "label": "B",
+        "text": "中学为体，西学为用"
+      },
+      {
+        "label": "C",
+        "text": "物竞天择，适者生存"
+      },
+      {
+        "label": "D",
+        "text": "维新变法以救亡图存"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064019",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1932年国民党政府规定：“凡宣传共产主义，要求民主和抗日，直至对国民党政府表示不满的，一律严予禁止。”这说明，国民党在思想文化领域采取（ ）政策。",
+    "options": [
+      {
+        "label": "A",
+        "text": "“百花齐放、百家争鸣”"
+      },
+      {
+        "label": "B",
+        "text": "文化专制主义，严格控制舆论，剥夺人民言论和出版自由"
+      },
+      {
+        "label": "C",
+        "text": "文化自由主义"
+      },
+      {
+        "label": "D",
+        "text": "中立态度，放任自流"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064020",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "维新派的目的是要在中国建立（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "君主立宪制"
+      },
+      {
+        "label": "B",
+        "text": "民主共和制度"
+      },
+      {
+        "label": "C",
+        "text": "开明君主专制"
+      },
+      {
+        "label": "D",
+        "text": "汉族皇帝的新王朝"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064021",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "20世纪初，邹容撰写的（）热情讴歌革命，号召人民推翻清王朝统治。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《革命军》"
+      },
+      {
+        "label": "B",
+        "text": "《警世钟》"
+      },
+      {
+        "label": "C",
+        "text": "《猛回头》"
+      },
+      {
+        "label": "D",
+        "text": "《驳康有为论革命书》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064022",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "（）是马克思主义政党的鲜明特征和政治优势",
+    "options": [
+      {
+        "label": "A",
+        "text": "加强党的政治建设"
+      },
+      {
+        "label": "B",
+        "text": "解放思想，实事求是"
+      },
+      {
+        "label": "C",
+        "text": "自我批评"
+      },
+      {
+        "label": "D",
+        "text": "和人民群众紧密联系在一起"
+      }
+    ],
+    "answer": "D",
+    "verified": false
+  },
+  {
+    "questionId": "886064023",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "太平天国在军事上达到全盛时期是在（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "1853年上半年"
+      },
+      {
+        "label": "B",
+        "text": "1856年上半年"
+      },
+      {
+        "label": "C",
+        "text": "1859年上半年"
+      },
+      {
+        "label": "D",
+        "text": "1864年上半年"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064024",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "洋务运动时期，当时国内最大的造船厂是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "上海江南制造总局"
+      },
+      {
+        "label": "B",
+        "text": "天津机器局"
+      },
+      {
+        "label": "C",
+        "text": "湖北枪炮厂"
+      },
+      {
+        "label": "D",
+        "text": "福州船政局"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064025",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1947 年中国共产党颁布《中国土地法大纲》，其主要内容是（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "平均地权"
+      },
+      {
+        "label": "B",
+        "text": "废除封建性及半封建性剥削的土地制度"
+      },
+      {
+        "label": "C",
+        "text": "推行农业合作化运动"
+      },
+      {
+        "label": "D",
+        "text": "保留富农经济"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064026",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1936年10月9日，红四方面军指挥部到达（ ）同红一方面军会合。",
+    "options": [
+      {
+        "label": "A",
+        "text": "江西瑞金"
+      },
+      {
+        "label": "B",
+        "text": "甘肃隆德将台堡"
+      },
+      {
+        "label": "C",
+        "text": "陕西延安"
+      },
+      {
+        "label": "D",
+        "text": "甘肃会宁"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064027",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "新文化运动倡导的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "资产阶级的民主主义"
+      },
+      {
+        "label": "B",
+        "text": "大地主大资产阶级的独裁主义"
+      },
+      {
+        "label": "C",
+        "text": "小资产阶级的自由主义"
+      },
+      {
+        "label": "D",
+        "text": "农民阶级的平均主义"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064028",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "近代历史上中国人民第一次大规模反侵略的武装斗争是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "太平天国的反侵略斗争"
+      },
+      {
+        "label": "B",
+        "text": "三元里人民的抗英斗争"
+      },
+      {
+        "label": "C",
+        "text": "义和团抗击八国联军的斗争"
+      },
+      {
+        "label": "D",
+        "text": "台湾人民的反割台斗争"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064029",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "下列不属于三大战役的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "辽沈战役"
+      },
+      {
+        "label": "B",
+        "text": "渡江战役"
+      },
+      {
+        "label": "C",
+        "text": "平津战役"
+      },
+      {
+        "label": "D",
+        "text": "淮海战役"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064030",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "20世纪中国第一次历史性巨变是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "清军入关"
+      },
+      {
+        "label": "B",
+        "text": "辛亥革命"
+      },
+      {
+        "label": "C",
+        "text": "康乾盛世"
+      },
+      {
+        "label": "D",
+        "text": "三元里人民抗英运动"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064031",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1937年7月，日本帝国主义制造了开始全面侵华战争的（     ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "卢沟桥事变"
+      },
+      {
+        "label": "B",
+        "text": "“一•二八”事变"
+      },
+      {
+        "label": "C",
+        "text": "衡阳保卫战"
+      },
+      {
+        "label": "D",
+        "text": "武汉保卫战"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064032",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "以下属于同盟会革命纲领的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "三民主义学说"
+      },
+      {
+        "label": "B",
+        "text": "《资政新篇》"
+      },
+      {
+        "label": "C",
+        "text": "《变法通议》"
+      },
+      {
+        "label": "D",
+        "text": "《天朝田亩制度》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064033",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1915年9月，陈独秀在上海创办《青年杂志》。他在该刊发刊词中宣称：\"盖改造青年之思想，辅导青年之修养，为本志之天职。批评时政，非其旨也。\"此时陈独秀把主要注意力倾注于思想变革的原因是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "他认定改造国民性是政治变革的前提"
+      },
+      {
+        "label": "B",
+        "text": "他对资产阶级民主主义产生了怀疑"
+      },
+      {
+        "label": "C",
+        "text": "他对政治问题不感兴趣"
+      },
+      {
+        "label": "D",
+        "text": "他认为批评时政不利于改造青年思想"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064034",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国一大宣告中国共产党正式成立，中国共产党成立后，党的工作重点在 ( )",
+    "options": [
+      {
+        "label": "A",
+        "text": "发动广州起义"
+      },
+      {
+        "label": "B",
+        "text": "集中精力组织工人"
+      },
+      {
+        "label": "C",
+        "text": "发动南昌起义"
+      },
+      {
+        "label": "D",
+        "text": "发动秋收起义"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064035",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "太平天国由盛转衰的分水岭是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "金田起义"
+      },
+      {
+        "label": "B",
+        "text": "定都天京"
+      },
+      {
+        "label": "C",
+        "text": "天京事变"
+      },
+      {
+        "label": "D",
+        "text": "东征胜利"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064036",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1927年，蒋介石在上海制造了捕杀共产党员和革命群众的（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "四一二政变"
+      },
+      {
+        "label": "B",
+        "text": "整理党务案"
+      },
+      {
+        "label": "C",
+        "text": "中山舰事件"
+      },
+      {
+        "label": "D",
+        "text": "七一五政变"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064037",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "著名文学家鲁迅在介绍《狂人日记》的主题时说：文章“意在暴露家族制度和礼教的弊害，“弊害”何在？乃在“吃人”。下列关于这句话理解错误的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "鲁迅写作的目的在于批判封建主义伦理道德"
+      },
+      {
+        "label": "B",
+        "text": "他认为封建礼教严重毒害了中国人的思想"
+      },
+      {
+        "label": "C",
+        "text": "该文章批判封建思想，启迪民智，顺应了新文化运动的发展潮流"
+      },
+      {
+        "label": "D",
+        "text": "鲁迅认为吃人的礼教是指资产阶级民主主义思想"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064038",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "“1832年，德国基督教传教士郭士立受英国东印度公司派遣，以传教为掩护，在中国沿海进行长达几个月的间谍侦察活动，刺探搜集大量军事情报。”材料主要反映出资本-帝国主义对中国实行（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "文化渗透"
+      },
+      {
+        "label": "B",
+        "text": "军事侵略"
+      },
+      {
+        "label": "C",
+        "text": "政治控制"
+      },
+      {
+        "label": "D",
+        "text": "经济掠夺"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064039",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1984年12月19日正式签署了《中英联合声明》，决定中国对香港恢复行使主权，中华人民共和国香港特别行政区正式成立是在（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "1993年3月5日"
+      },
+      {
+        "label": "B",
+        "text": "1999年12月1日"
+      },
+      {
+        "label": "C",
+        "text": "1995年8月7日"
+      },
+      {
+        "label": "D",
+        "text": "1997年7月1日"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064040",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "大革命失败后，毛泽东先后写了《星星之火，可以燎原》《井冈山的斗争》《中国的红色政权为什么能够存在》等文章，这些文章主要阐述了（ ）重要理论。",
+    "options": [
+      {
+        "label": "A",
+        "text": "新民主主义"
+      },
+      {
+        "label": "B",
+        "text": "农村包围城市、武装夺取政权"
+      },
+      {
+        "label": "C",
+        "text": "游击战"
+      },
+      {
+        "label": "D",
+        "text": "人民民主专政"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064041",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "对洋务派兴办洋务事业的指导思想最先作出比较完整表述的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "曾国藩"
+      },
+      {
+        "label": "B",
+        "text": "奕忻"
+      },
+      {
+        "label": "C",
+        "text": "冯桂芬"
+      },
+      {
+        "label": "D",
+        "text": "李鸿章"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064042",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1945 年 10 月，国共两党签署的《双十协定》的核心争议问题是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "军队国家化与政治民主化"
+      },
+      {
+        "label": "B",
+        "text": "解放区政权合法性"
+      },
+      {
+        "label": "C",
+        "text": "和平建国的基本方针"
+      },
+      {
+        "label": "D",
+        "text": "抗日战争胜利后的受降权"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064043",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "辛亥革命失败的根本原因是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中外反动势力的镇压"
+      },
+      {
+        "label": "B",
+        "text": "在帝国主义时代，在半殖民地半封建的中国，资本主义的建国方案是行不通的"
+      },
+      {
+        "label": "C",
+        "text": "中国封建势力的强大"
+      },
+      {
+        "label": "D",
+        "text": "没有发动人民群众"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064044",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "（）是“四个全面”战略布局中具有突破性和先导性的关键环节",
+    "options": [
+      {
+        "label": "A",
+        "text": "全面建成小康社会"
+      },
+      {
+        "label": "B",
+        "text": "全面深化改革"
+      },
+      {
+        "label": "C",
+        "text": "全面依法治国"
+      },
+      {
+        "label": "D",
+        "text": "全面从严治党"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064045",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "洋务派创办的第一个规模较大的近代军事工业是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "天津机器局"
+      },
+      {
+        "label": "B",
+        "text": "马尾船政局"
+      },
+      {
+        "label": "C",
+        "text": "江南制造总局"
+      },
+      {
+        "label": "D",
+        "text": "湖北枪炮厂"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064046",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "陈独秀曾写道：“我们现在认定只有这德先生和赛先生，可以救治中国政治上道德学术上思想上一切的黑暗。”对这句话理解错误的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "“德先生”与“赛先生”分别指“专制”与“迷信”"
+      },
+      {
+        "label": "B",
+        "text": "陈独秀旨在宣传民主，反对专制；宣传科学，反对迷信"
+      },
+      {
+        "label": "C",
+        "text": "通过拥护这两位先生推动了中国的思想解放"
+      },
+      {
+        "label": "D",
+        "text": "这里的“黑暗”主要指封建主义思想"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064047",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "19世纪60年代，面对内忧外患，封建统治阶级中的部分成员，主张仿造西方的武器装备和学习西方的科学技术，这些官员被称为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "顽固派"
+      },
+      {
+        "label": "B",
+        "text": "革命派"
+      },
+      {
+        "label": "C",
+        "text": "维新派"
+      },
+      {
+        "label": "D",
+        "text": "洋务派"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064048",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1930年5月，毛泽东写了（ ）一文，提出“没有调查，没有发言权”。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《反对本本主义》"
+      },
+      {
+        "label": "B",
+        "text": "《警世钟》"
+      },
+      {
+        "label": "C",
+        "text": "《革命军》"
+      },
+      {
+        "label": "D",
+        "text": "《猛回头》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064049",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1905年11月，在同盟会机关报《民报》发刊词中，孙中山将同盟会的纲领概括为民族主义、民权主义、民生主义，后被称为三民主义，其中民权主义的内容是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "平均地权"
+      },
+      {
+        "label": "B",
+        "text": "创立民国"
+      },
+      {
+        "label": "C",
+        "text": "驱除鞑虏，恢复中华"
+      },
+      {
+        "label": "D",
+        "text": "节制资本"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064050",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国梦的核心内涵是( )。",
+    "options": [
+      {
+        "label": "A",
+        "text": "实现中华民族伟大复兴"
+      },
+      {
+        "label": "B",
+        "text": "国家富强"
+      },
+      {
+        "label": "C",
+        "text": "民族振兴"
+      },
+      {
+        "label": "D",
+        "text": "人民幸福"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064051",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "根据《太平天国》记载：太平天国领袖们之间的关系逐渐疏远，原来“寝食必俱，情同骨肉”，变为“彼此隔阂，猜忌日生”，宗派色彩日益明显。造成此种变化的根本原因是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "农民阶级无法克服自身固有的阶级局限性"
+      },
+      {
+        "label": "B",
+        "text": "洪秀全等人不善于处理人际关系"
+      },
+      {
+        "label": "C",
+        "text": "东王杨秀清野心的过度膨胀"
+      },
+      {
+        "label": "D",
+        "text": "清政府派遣间谍挑拨离间"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064052",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国共产党在中国历史上第一个制定了可以付诸实施的比较完整的土地革命路线是在（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "土地革命战争时期"
+      },
+      {
+        "label": "B",
+        "text": "抗日战争时期"
+      },
+      {
+        "label": "C",
+        "text": "解放战争时期"
+      },
+      {
+        "label": "D",
+        "text": "建国以后"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064053",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1947年6月底，根据中共中央的决策和部署，（ ）率领的晋冀鲁豫野战军主力，千里跃进大别山。",
+    "options": [
+      {
+        "label": "A",
+        "text": "陈庚、谢富治"
+      },
+      {
+        "label": "B",
+        "text": "刘伯承、邓小平"
+      },
+      {
+        "label": "C",
+        "text": "陈毅、粟裕"
+      },
+      {
+        "label": "D",
+        "text": "谭震林、许世友"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064054",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "第五次反\"围剿\"失败的最主要原因是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"左\"倾错误的进一步发展"
+      },
+      {
+        "label": "B",
+        "text": "进攻受挫后采取消极防御方针"
+      },
+      {
+        "label": "C",
+        "text": "主张\"御敌于国门之外\""
+      },
+      {
+        "label": "D",
+        "text": "丧失了与福建十九路军的合作良机"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064055",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "应金日成首相的请求，中国政府毅然作出\"抗美援朝，保家卫国\"的决策。出任中国人民志愿军司令员的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "罗瑞卿"
+      },
+      {
+        "label": "B",
+        "text": "朱德"
+      },
+      {
+        "label": "C",
+        "text": "彭德怀"
+      },
+      {
+        "label": "D",
+        "text": "周恩来"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064056",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "组织编成《四洲志》的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "梁启超"
+      },
+      {
+        "label": "B",
+        "text": "林则徐"
+      },
+      {
+        "label": "C",
+        "text": "李鸿章"
+      },
+      {
+        "label": "D",
+        "text": "郑观应"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064057",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中共二大提出的党的最高纲领是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "实现社会主义、共产主义"
+      },
+      {
+        "label": "B",
+        "text": "消除内乱"
+      },
+      {
+        "label": "C",
+        "text": "打倒军阀"
+      },
+      {
+        "label": "D",
+        "text": "反对封建主义"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064058",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "在国民党统治区，以( )为先导的人民民主运动迅速发展，逐步形成配合人民解放战争的第二条战线。",
+    "options": [
+      {
+        "label": "A",
+        "text": "工人"
+      },
+      {
+        "label": "B",
+        "text": "国民党"
+      },
+      {
+        "label": "C",
+        "text": "学生运动"
+      },
+      {
+        "label": "D",
+        "text": "民主党派"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064059",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "明确提出全面建设小康社会的奋斗目标是在（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "中共十四大"
+      },
+      {
+        "label": "B",
+        "text": "中共十五大"
+      },
+      {
+        "label": "C",
+        "text": "中共十六大"
+      },
+      {
+        "label": "D",
+        "text": "中共十七大"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064060",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "在中国大地上率先举起马克思主义旗帜的是（     ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "李大钊"
+      },
+      {
+        "label": "B",
+        "text": "何叔衡"
+      },
+      {
+        "label": "C",
+        "text": "张国焘"
+      },
+      {
+        "label": "D",
+        "text": "董必武"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064061",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1853年3月，太平军占领南京，定为首都，改名为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "天京"
+      },
+      {
+        "label": "B",
+        "text": "北京"
+      },
+      {
+        "label": "C",
+        "text": "西京"
+      },
+      {
+        "label": "D",
+        "text": "金陵"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064062",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "洋务运动的指导思想是()",
+    "options": [
+      {
+        "label": "A",
+        "text": "外争主权，内除国贼"
+      },
+      {
+        "label": "B",
+        "text": "民主和科学"
+      },
+      {
+        "label": "C",
+        "text": "中学为体，西学为用"
+      },
+      {
+        "label": "D",
+        "text": "振兴中华"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064063",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "三湾改编的核心内容是（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "将红军改编为八路军"
+      },
+      {
+        "label": "B",
+        "text": "确立“党指挥枪”原则，支部建在连上"
+      },
+      {
+        "label": "C",
+        "text": "提出“农村包围城市”战略"
+      },
+      {
+        "label": "D",
+        "text": "制定土地革命路线"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064064",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1851年，中国爆发了一场伟大的农民战争，达到旧式农民战争最高峰。它是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "大泽乡起义"
+      },
+      {
+        "label": "B",
+        "text": "辛亥革命"
+      },
+      {
+        "label": "C",
+        "text": "太平天国运动"
+      },
+      {
+        "label": "D",
+        "text": "萍浏醴起义"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064065",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1938年5至6月间，毛泽东系统阐述抗日战争的特点、前途和发展规律的重要讲演是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《论持久战》"
+      },
+      {
+        "label": "B",
+        "text": "《抗日救国十大纲领》"
+      },
+      {
+        "label": "C",
+        "text": "《中国革命和中国共产党》"
+      },
+      {
+        "label": "D",
+        "text": "《新民主主义论》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064066",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1931年11月7日至20日，中华苏维埃第一次全国代表大会在江西瑞金召开。大会通过了《中华苏维埃共和国宪法大纲》以及土地法令、劳动法等法律文件；选举产生了中华苏维埃共和国中央执行委员会；成立了中华苏维埃共和国临时中央政府，毛泽东当选为主席。中华苏维埃共和国（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "是中国历史上第一个全国性的工农民主政权"
+      },
+      {
+        "label": "B",
+        "text": "是中国共产党在全国执政的重要尝试"
+      },
+      {
+        "label": "C",
+        "text": "政权性质是各个革命阶级的联合专政"
+      },
+      {
+        "label": "D",
+        "text": "点燃了工农武装割据的星星之火，为中国革命开辟出了农村包围城市、武装夺取政权的正确道路"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064067",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "第一次国共合作的政治基础是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "新三民主义"
+      },
+      {
+        "label": "B",
+        "text": "改良主义"
+      },
+      {
+        "label": "C",
+        "text": "无政府主义"
+      },
+      {
+        "label": "D",
+        "text": "空想社会主义"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064068",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "标志着国民党反动统治覆灭的事件是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "人民解放军占领南京"
+      },
+      {
+        "label": "B",
+        "text": "三大战役胜利"
+      },
+      {
+        "label": "C",
+        "text": "北平和平解放"
+      },
+      {
+        "label": "D",
+        "text": "重庆谈判破裂"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064069",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "洋务运动的代表人物不包括（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "康有为"
+      },
+      {
+        "label": "B",
+        "text": "左宗棠"
+      },
+      {
+        "label": "C",
+        "text": "李鸿章"
+      },
+      {
+        "label": "D",
+        "text": "曾国藩"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064070",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1895年，严复在《救亡决论》一文中提出了（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"救亡\""
+      },
+      {
+        "label": "B",
+        "text": "\"师夷长技以制夷\""
+      },
+      {
+        "label": "C",
+        "text": "\"君民共主\""
+      },
+      {
+        "label": "D",
+        "text": "\"振兴中华\""
+      }
+    ],
+    "answer": "D",
+    "verified": false
+  },
+  {
+    "questionId": "886064071",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "关于新文化运动，毛泽东在《新民主主义论》中曾这样说：“自有中国历史以来，还没有过这样伟大而彻底的文化革命。”新文化运动的口号是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "改造国民性"
+      },
+      {
+        "label": "B",
+        "text": "民主"
+      },
+      {
+        "label": "C",
+        "text": "拥护“德先生”和“赛先生”"
+      },
+      {
+        "label": "D",
+        "text": "科学"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064072",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "五四运动以后，李大钊号召知识分子“向农村去”、“到民间去”宣传马克思主义。这说明中国早期的马克思主义者注重（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "学习马克思主义理论知识"
+      },
+      {
+        "label": "B",
+        "text": "知识分子同劳动群众相结合"
+      },
+      {
+        "label": "C",
+        "text": "批判社会民主主义思潮"
+      },
+      {
+        "label": "D",
+        "text": "开展农民运动，发动农民起义"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064073",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1936年10月，红军长征三大主力红军会师的地点是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "会宁"
+      },
+      {
+        "label": "B",
+        "text": "甘孜"
+      },
+      {
+        "label": "C",
+        "text": "懋功"
+      },
+      {
+        "label": "D",
+        "text": "吴起镇"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064074",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国历史上第一部具有资产阶级共和国宪法性质的法典是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《中华民国临时约法》"
+      },
+      {
+        "label": "B",
+        "text": "《钦定宪法大纲》"
+      },
+      {
+        "label": "C",
+        "text": "《中华民国约法》"
+      },
+      {
+        "label": "D",
+        "text": "《试训政纲领》"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064075",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "土地革命战争时期，中国共产党之所以能够在白色恐怖中坚持和发展革命，其根本原因在于（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "组织工人暴动"
+      },
+      {
+        "label": "B",
+        "text": "领导学生游行"
+      },
+      {
+        "label": "C",
+        "text": "依靠农民，开展土地革命"
+      },
+      {
+        "label": "D",
+        "text": "重视文化教育"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064076",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "标志和谈之门被国民党全部关闭，国共关系彻底破裂的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "下关惨案"
+      },
+      {
+        "label": "B",
+        "text": "国民党逐出中共驻南京、上海、重庆三地代表及工作人员"
+      },
+      {
+        "label": "C",
+        "text": "国民党军大举围攻中原解放区"
+      },
+      {
+        "label": "D",
+        "text": "校场口惨案"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064077",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "抗日战争胜利的决定因素是（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "中国共产党的中流砥柱作用"
+      },
+      {
+        "label": "B",
+        "text": "以爱国主义为核心的民族精神"
+      },
+      {
+        "label": "C",
+        "text": "全民族抗战"
+      },
+      {
+        "label": "D",
+        "text": "世界反法西斯力量的支持"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064078",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1905年至1907年间，围绕中国究竟是采用革命手段还是改良方式这个问题，革命派与改良派展开了一场大论战，双方论战的焦点是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "要不要以革命手段推翻清王朝"
+      },
+      {
+        "label": "B",
+        "text": "要不要进行社会革命"
+      },
+      {
+        "label": "C",
+        "text": "要不要平均地权"
+      },
+      {
+        "label": "D",
+        "text": "要不要推翻帝制，实行共和"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064079",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "下列属于列强对中国进行文化渗透的手段是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "控制中国海关"
+      },
+      {
+        "label": "B",
+        "text": "扶植代理人"
+      },
+      {
+        "label": "C",
+        "text": "宣扬“种族优劣论”"
+      },
+      {
+        "label": "D",
+        "text": "划分势力范围"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064080",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "西方列强对中国进行资本输出的枢纽是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "控制中国的通商口岸"
+      },
+      {
+        "label": "B",
+        "text": "在中国设立银行"
+      },
+      {
+        "label": "C",
+        "text": "夺取中国的海关主权"
+      },
+      {
+        "label": "D",
+        "text": "强迫清政府举借外债"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064081",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "新中国的政体是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "人民民主专政"
+      },
+      {
+        "label": "B",
+        "text": "民族区域自治制度"
+      },
+      {
+        "label": "C",
+        "text": "人民代表大会制度"
+      },
+      {
+        "label": "D",
+        "text": "中国共产党领导的多党合作和政治协商制度"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064082",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1930年5月，中共中央机关刊物《红旗》指出：“现在就全国看来，农民运动的发展比较城市的工人运动要快得多。在这一种情势之下，若我们依然是将大部分的力量都用在城市中，实不如用在农村中为好。革命势力占据了广大农村之后，可以结合起来包围城市，封锁城市，用广大的农村革命势力向城市进攻，必然可以得着胜利。”对于这句话理解错误的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "这表明中国共产党已经在探索以农村为工作重心的革命新道路"
+      },
+      {
+        "label": "B",
+        "text": "1927年大革命失败后中国革命应当继续以城市为中心"
+      },
+      {
+        "label": "C",
+        "text": "农村包围城市是1927年大革命失败后中国革命规律发展的必然要求"
+      },
+      {
+        "label": "D",
+        "text": "走农村包围城市、武装夺取政权的道路可以取得中国革命的胜利"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064083",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "针对1977年至1978年我国出现国民经济比例失调的情况， 1979年4月召开的中共中央工作会议决定，对国民经济实行调整的方针是（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "既反保守 ，又反冒进 ，在综合平衡中稳步前进"
+      },
+      {
+        "label": "B",
+        "text": "以工业为先导 ，以农业为基础"
+      },
+      {
+        "label": "C",
+        "text": "调整、充实、巩固、提高"
+      },
+      {
+        "label": "D",
+        "text": "调整、改革、整顿、提高"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064084",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "太平天国运动是中国农民战争的最高峰的主要依据是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "组织了强大的武装"
+      },
+      {
+        "label": "B",
+        "text": "其规模和延续时间均属空前"
+      },
+      {
+        "label": "C",
+        "text": "颁布了《天朝田亩制度》"
+      },
+      {
+        "label": "D",
+        "text": "承担了反封建反侵略的任务"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064085",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国封建社会的基本生产结构是(   )",
+    "options": [
+      {
+        "label": "A",
+        "text": "小农经济"
+      },
+      {
+        "label": "B",
+        "text": "劳役制庄园"
+      },
+      {
+        "label": "C",
+        "text": "官庄"
+      },
+      {
+        "label": "D",
+        "text": "农庄"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064086",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1860年洗劫和烧毁圆明园的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "英法联军"
+      },
+      {
+        "label": "B",
+        "text": "俄国侵略军"
+      },
+      {
+        "label": "C",
+        "text": "日本侵略军"
+      },
+      {
+        "label": "D",
+        "text": "八国联军"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064087",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "某高校学生社团计划开展“百年党史中的青年力量”主题展览，准备用短视频形式呈现不同历史时期青年的奋斗故事。如果要展现新民主主义革命开端时期青年学子的爱国行动，视频素材应聚焦于以下哪一标志性事件？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "戊戌变法"
+      },
+      {
+        "label": "B",
+        "text": "辛亥革命"
+      },
+      {
+        "label": "C",
+        "text": "五四运动"
+      },
+      {
+        "label": "D",
+        "text": "洋务运动"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064088",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "“一五”计划确定的经济建设指导方针，突出了集中主要力量发展（）",
+    "options": [
+      {
+        "label": "A",
+        "text": "重工业"
+      },
+      {
+        "label": "B",
+        "text": "轻工业"
+      },
+      {
+        "label": "C",
+        "text": "农业"
+      },
+      {
+        "label": "D",
+        "text": "手工业"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064089",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "中国人民和中华民族最伟大的梦想是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "实现共产主义"
+      },
+      {
+        "label": "B",
+        "text": "实现中华民族伟大复兴"
+      },
+      {
+        "label": "C",
+        "text": "实现共同富裕"
+      },
+      {
+        "label": "D",
+        "text": "实现人民幸福安康"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064090",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1941年5月，毛泽东作了（）的报告，整风运动首先在党的高级干部中进行。",
+    "options": [
+      {
+        "label": "A",
+        "text": "《反对党八股》"
+      },
+      {
+        "label": "B",
+        "text": "《整顿党的作风》"
+      },
+      {
+        "label": "C",
+        "text": "《改造我们的学习》"
+      },
+      {
+        "label": "D",
+        "text": "《关于调查研究的决定》"
+      }
+    ],
+    "answer": "C",
+    "verified": true
+  },
+  {
+    "questionId": "886064091",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1899年义和团运动在山东兴起后，在欧美列强的压力下，清政府派(   )前往山东镇压义和团。",
+    "options": [
+      {
+        "label": "A",
+        "text": "毓贤"
+      },
+      {
+        "label": "B",
+        "text": "袁世凯"
+      },
+      {
+        "label": "C",
+        "text": "徐桐"
+      },
+      {
+        "label": "D",
+        "text": "刚毅"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064092",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "辛亥革命和国民大革命的失败是指（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "没有完成反帝反封建的任务"
+      },
+      {
+        "label": "B",
+        "text": "被反动势力篡夺了革命果实"
+      },
+      {
+        "label": "C",
+        "text": "没有建立真正的资产阶级共和国"
+      },
+      {
+        "label": "D",
+        "text": "没有促进中国革命的向前发展"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064093",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "国民党政府实行一党专政的军事独裁统治的内容不包括（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "建立了庞大的军队"
+      },
+      {
+        "label": "B",
+        "text": "大力推行保甲制度"
+      },
+      {
+        "label": "C",
+        "text": "厉行文化专制主义"
+      },
+      {
+        "label": "D",
+        "text": "加强政治建设"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064094",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "第一次国共合作正式形成的标志是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "国民党一大的成功召开"
+      },
+      {
+        "label": "B",
+        "text": "黄埔军校的建立"
+      },
+      {
+        "label": "C",
+        "text": "中共二大制定民主革命纲领"
+      },
+      {
+        "label": "D",
+        "text": "北伐战争的开始"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064095",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "毛泽东指出：“所谓割据，必须是武装的。哪一处没有武装，或者武装不够，或者对付敌人的策略错了，地方就立即被敌人占去了。”这句话表明，毛泽东在中国革命中特别强调（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "通过议会选举"
+      },
+      {
+        "label": "B",
+        "text": "与国民党和平相处"
+      },
+      {
+        "label": "C",
+        "text": "打击民族资产阶级"
+      },
+      {
+        "label": "D",
+        "text": "工农武装割据"
+      }
+    ],
+    "answer": "D",
+    "verified": true
+  },
+  {
+    "questionId": "886064096",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "大学生小陈在参与“红色剧本杀”活动时，抽到的角色需完成传递中共一大机密文件的任务。根据史实，该角色最可能身处的地点是（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "上海石库门与嘉兴南湖"
+      },
+      {
+        "label": "B",
+        "text": "武汉武昌城"
+      },
+      {
+        "label": "C",
+        "text": "广州黄花岗"
+      },
+      {
+        "label": "D",
+        "text": "北京天安门"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064097",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "1853年3月，太平天国军占领南京，定为首都，改名为（ ），正式宣告太平天国农民政权的建立。",
+    "options": [
+      {
+        "label": "A",
+        "text": "天京"
+      },
+      {
+        "label": "B",
+        "text": "北京"
+      },
+      {
+        "label": "C",
+        "text": "天津"
+      },
+      {
+        "label": "D",
+        "text": "西京"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064098",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "新文化运动被誉为中国的“文艺复兴”，其原因在于（）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "它彻底否定中国的传统文化"
+      },
+      {
+        "label": "B",
+        "text": "它是一场启迪民智的思想启蒙运动，掀起了一股思想解放潮流"
+      },
+      {
+        "label": "C",
+        "text": "它提倡迷信与专制，鼓吹封建主义思想"
+      },
+      {
+        "label": "D",
+        "text": "它宣传改良主义，反对通过暴力革命改变社会现状"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064099",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "将毛泽东思想规定为党的一切工作的指针是在（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "八七会议"
+      },
+      {
+        "label": "B",
+        "text": "中共七大"
+      },
+      {
+        "label": "C",
+        "text": "瓦窑堡会议"
+      },
+      {
+        "label": "D",
+        "text": "遵义会议"
+      }
+    ],
+    "answer": "B",
+    "verified": true
+  },
+  {
+    "questionId": "886064100",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "维新变法期间，曾有人建议邀请日本前首相伊藤博文来中国任维新顾问，这表明维新派（ ）",
+    "options": [
+      {
+        "label": "A",
+        "text": "对帝国主义抱有幻想"
+      },
+      {
+        "label": "B",
+        "text": "惧怕人民群众"
+      },
+      {
+        "label": "C",
+        "text": "不敢否定封建主义"
+      },
+      {
+        "label": "D",
+        "text": "具有革命思想"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  },
+  {
+    "questionId": "886064101",
+    "type": "0",
+    "typeName": "单选题",
+    "question": "标志着国民党政权在大陆统治覆灭的重大事件是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "text": "1949年南京解放"
+      },
+      {
+        "label": "B",
+        "text": "1949年北平解放"
+      },
+      {
+        "label": "C",
+        "text": "1949年上海解放"
+      },
+      {
+        "label": "D",
+        "text": "1949年中共开国大典"
+      }
+    ],
+    "answer": "A",
+    "verified": true
+  }
+]
