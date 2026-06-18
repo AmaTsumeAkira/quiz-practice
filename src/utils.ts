@@ -1,8 +1,8 @@
 import type { Question, PracticeMode, BankInfo } from './types';
 
 export const BANK_LIST: BankInfo[] = [
-  { id: 'judgment', name: '判断题', fileName: '判断题.json', count: 316 },
-  { id: 'single', name: '单选题', fileName: '单选题.json', count: 362 },
+  { id: 'judgment', name: '近代史-判断', fileName: '判断题.json', count: 316 },
+  { id: 'single', name: '近代史-单选', fileName: '单选题.json', count: 362 },
 ];
 
 export async function loadQuestions(fileName: string): Promise<Question[]> {
