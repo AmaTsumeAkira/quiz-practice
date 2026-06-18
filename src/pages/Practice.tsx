@@ -23,19 +23,9 @@ export default function Practice() {
     reset,
   } = useQuiz();
 
-  if (!bank || orderedQuestions.length === 0) {
-    return (
-      <Result
-        status="warning"
-        title="没有选择题库"
-        subTitle="请先返回首页选择题库"
-        extra={<Button type="primary" onClick={() => navigate('/')}>返回首页</Button>}
-      />
-    );
-  }
-
   const question = orderedQuestions[currentIndex];
   const total = orderedQuestions.length;
+  const answeredCount = Object.keys(answers).length;
 
   const handlePrev = useCallback(() => {
     if (currentIndex > 0) setCurrentIndex(currentIndex - 1);
@@ -78,9 +68,18 @@ export default function Practice() {
     toggleResult();
   }, [bank, orderedQuestions, answers, toggleResult]);
 
-  if (!question) return null;
+  if (!bank || orderedQuestions.length === 0) {
+    return (
+      <Result
+        status="warning"
+        title="没有选择题库"
+        subTitle="请先返回首页选择题库"
+        extra={<Button type="primary" onClick={() => navigate('/')}>返回首页</Button>}
+      />
+    );
+  }
 
-  const answeredCount = Object.keys(answers).length;
+  if (!question) return null;
 
   return (
     <div className="practice">

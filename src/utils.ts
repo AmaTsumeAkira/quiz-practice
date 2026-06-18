@@ -8,6 +8,7 @@ export const BANK_LIST: BankInfo[] = [
 export async function loadQuestions(fileName: string): Promise<Question[]> {
   const base = import.meta.env.BASE_URL;
   const res = await fetch(`${base}data/${fileName}`);
+  if (!res.ok) throw new Error(`Failed to load ${fileName}: ${res.status}`);
   return res.json();
 }
 
