@@ -1,6 +1,6 @@
-import { useEffect, useCallback } from 'react';
+import { useCallback } from 'react';
 import { Button, Typography, Result } from 'antd';
-import { ArrowLeftOutlined, ArrowRightOutlined, ReloadOutlined } from '@ant-design/icons';
+import { ArrowLeftOutlined } from '@ant-design/icons';
 import { useNavigate } from 'react-router-dom';
 import { useQuiz } from '../context/QuizContext';
 import { addWrongId, removeWrongId } from '../utils';
@@ -49,16 +49,19 @@ export default function Practice() {
     (answer: string) => {
       if (!question || !bank) return;
       submitAnswer(question.questionId, answer);
-      if (showResult) {
-        if (answer === question.answer) {
-          removeWrongId(bank.id, question.questionId);
-        } else {
-          addWrongId(bank.id, question.questionId);
-        }
+      if (answer === question.answer) {
+        removeWrongId(bank.id, question.questionId);
+      } else {
+        addWrongId(bank.id, question.questionId);
       }
     },
-    [question, bank, submitAnswer, showResult]
+    [question, bank, submitAnswer]
   );
+
+  const handleBack = useCallback(() => {
+    reset();
+    navigate('/');
+  }, [reset, navigate]);
 
   const handleSubmitAll = useCallback(() => {
     if (!bank) return;
@@ -75,27 +78,6 @@ export default function Practice() {
     toggleResult();
   }, [bank, orderedQuestions, answers, toggleResult]);
 
-  const handleBack = useCallback(() => {
-    reset();
-    navigate('/');
-  }, [reset, navigate]);
-
-  const handleKeyDown = useCallback(
-    (e: KeyboardEvent) => {
-      if (e.key === 'ArrowLeft') handlePrev();
-      else if (e.key === 'ArrowRight') handleNext();
-      else if (e.key >= 'A' && e.key <= 'D' && question) {
-        handleAnswer(e.key);
-      }
-    },
-    [handlePrev, handleNext, handleAnswer, question]
-  );
-
-  useEffect(() => {
-    window.addEventListener('keydown', handleKeyDown);
-    return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [handleKeyDown]);
-
   if (!question) return null;
 
   const answeredCount = Object.keys(answers).length;
@@ -103,16 +85,17 @@ export default function Practice() {
   return (
     <div className="practice">
       <div className="practice-header">
-        <Button icon={<ArrowLeftOutlined />} onClick={handleBack}>
+        <Button size="small" icon={<ArrowLeftOutlined />} onClick={handleBack}>
           返回
         </Button>
-        <Title level={4} style={{ margin: 0 }}>
+        <Title level={5} style={{ margin: 0, flex: 1, textAlign: 'center' }}>
           {bank.name}
         </Title>
         <span className="progress-text">
-          {currentIndex + 1} / {total}
+          {currentIndex + 1}/{total}
         </span>
       </div>
+
       <div className="practice-body">
         <div className="practice-main">
           <QuestionCard
@@ -120,11 +103,10 @@ export default function Practice() {
             index={currentIndex}
             userAnswer={answers[question.questionId] || ''}
             onAnswer={handleAnswer}
-            showResult={showResult}
           />
           <div className="practice-nav">
             <Button
-              icon={<ArrowLeftOutlined />}
+              size="small"
               disabled={currentIndex === 0}
               onClick={handlePrev}
             >
@@ -132,33 +114,28 @@ export default function Practice() {
             </Button>
             {!showResult ? (
               <Button
+                size="small"
                 type="primary"
                 onClick={handleSubmitAll}
                 disabled={answeredCount === 0}
               >
-                提交答案
+                提交全部
               </Button>
             ) : (
-              <Button
-                icon={<ReloadOutlined />}
-                onClick={handleSubmitAll}
-              >
+              <Button size="small" onClick={handleSubmitAll}>
                 重新查看
               </Button>
             )}
             <Button
+              size="small"
               disabled={currentIndex === total - 1}
               onClick={handleNext}
             >
-              下一题 <ArrowRightOutlined />
+              下一题
             </Button>
           </div>
-          {showResult && (
-            <div className="result-summary">
-              已答 {answeredCount} / {total} 题
-            </div>
-          )}
         </div>
+
         <div className="practice-sidebar">
           <AnswerSheet
             questions={orderedQuestions}

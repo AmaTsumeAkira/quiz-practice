@@ -1,4 +1,3 @@
-import { Radio, Space } from 'antd';
 import type { Question } from '../types';
 
 interface Props {
@@ -6,10 +5,10 @@ interface Props {
   index: number;
   userAnswer: string;
   onAnswer: (answer: string) => void;
-  showResult: boolean;
 }
 
-export default function QuestionCard({ question, index, userAnswer, onAnswer, showResult }: Props) {
+export default function QuestionCard({ question, index, userAnswer, onAnswer }: Props) {
+  const answered = !!userAnswer;
   const isCorrect = userAnswer === question.answer;
 
   return (
@@ -19,28 +18,33 @@ export default function QuestionCard({ question, index, userAnswer, onAnswer, sh
         <span className="question-type">{question.typeName}</span>
       </div>
       <div className="question-text">{question.question}</div>
-      <Radio.Group
-        className="question-options"
-        onChange={(e) => onAnswer(e.target.value)}
-        value={userAnswer || undefined}
-        disabled={showResult}
-      >
-        <Space direction="vertical" size={12}>
-          {question.options.map((opt) => (
-            <Radio key={opt.label} value={opt.label} className="option-item">
-              <span className="option-label">{opt.label}.</span>
+      <div className="question-options">
+        {question.options.map((opt) => {
+          let cls = 'option-item';
+          if (answered) {
+            if (opt.label === question.answer) cls += ' opt-correct';
+            else if (opt.label === userAnswer && !isCorrect) cls += ' opt-wrong';
+            else cls += ' opt-disabled';
+          }
+          return (
+            <div
+              key={opt.label}
+              className={cls}
+              onClick={() => !answered && onAnswer(opt.label)}
+            >
+              <span className="option-label">{opt.label}</span>
               <span className="option-text">{opt.text}</span>
-              {showResult && opt.label === question.answer && (
-                <span className="correct-mark">正确</span>
+              {answered && opt.label === question.answer && (
+                <span className="opt-tag correct">正确</span>
               )}
-              {showResult && opt.label === userAnswer && !isCorrect && (
-                <span className="wrong-mark">你的答案</span>
+              {answered && opt.label === userAnswer && !isCorrect && (
+                <span className="opt-tag wrong">你的答案</span>
               )}
-            </Radio>
-          ))}
-        </Space>
-      </Radio.Group>
-      {showResult && (
+            </div>
+          );
+        })}
+      </div>
+      {answered && (
         <div className={`result-line ${isCorrect ? 'correct' : 'wrong'}`}>
           {isCorrect ? '回答正确' : `正确答案: ${question.answer}`}
         </div>
