@@ -18,13 +18,18 @@ export default function QuestionCard({
   onToggleBookmark,
 }: Props) {
   const answered = !!userAnswer;
-  const isCorrect = userAnswer === question.answer;
+  const isCorrect = answered && userAnswer === question.answer;
 
   return (
     <div className="question-card">
       <div className="question-header">
         <span className="question-index">{index + 1}.</span>
         <span className="question-type">{question.typeName}</span>
+        {answered && (
+          <span className={`answer-badge ${isCorrect ? 'badge-correct' : 'badge-wrong'}`}>
+            {isCorrect ? '正确' : '错误'}
+          </span>
+        )}
         <button
           className={`bookmark-btn ${isBookmarked ? 'active' : ''}`}
           onClick={onToggleBookmark}
@@ -37,23 +42,23 @@ export default function QuestionCard({
       <div className="question-options">
         {question.options.map((opt) => {
           let cls = 'option-item';
+          const isSelected = opt.label === userAnswer;
           if (answered) {
             if (opt.label === question.answer) cls += ' opt-correct';
-            else if (opt.label === userAnswer && !isCorrect) cls += ' opt-wrong';
-            else cls += ' opt-disabled';
+            else if (isSelected) cls += ' opt-wrong';
           }
           return (
             <div
               key={opt.label}
               className={cls}
-              onClick={() => !answered && onAnswer(opt.label)}
+              onClick={() => onAnswer(opt.label)}
             >
               <span className="option-label">{opt.label}</span>
               <span className="option-text">{opt.text}</span>
               {answered && opt.label === question.answer && (
                 <span className="opt-tag correct">正确</span>
               )}
-              {answered && opt.label === userAnswer && !isCorrect && (
+              {answered && isSelected && !isCorrect && (
                 <span className="opt-tag wrong">你的答案</span>
               )}
             </div>

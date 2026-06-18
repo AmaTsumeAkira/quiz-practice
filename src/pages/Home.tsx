@@ -6,6 +6,34 @@ import type { PracticeMode, BankInfo } from '../types';
 import { useQuiz } from '../context/QuizContext';
 
 const { Title, Text } = Typography;
+const PROGRESS_KEY = 'quiz_progress';
+
+function hasSavedProgress(): boolean {
+  try {
+    const raw = localStorage.getItem(PROGRESS_KEY);
+    if (!raw) return false;
+    const data = JSON.parse(raw);
+    return !!data.bank && !!data.orderedQuestionIds && data.orderedQuestionIds.length > 0;
+  } catch {
+    return false;
+  }
+}
+
+function getSavedProgressInfo(): { bankName: string; answered: number; total: number } | null {
+  try {
+    const raw = localStorage.getItem(PROGRESS_KEY);
+    if (!raw) return null;
+    const data = JSON.parse(raw);
+    if (!data.bank || !data.orderedQuestionIds) return null;
+    return {
+      bankName: data.bank.name,
+      answered: Object.keys(data.answers || {}).length,
+      total: data.orderedQuestionIds.length,
+    };
+  } catch {
+    return null;
+  }
+}
 
 export default function Home() {
   const [selectedBank, setSelectedBank] = useState<BankInfo | null>(null);
@@ -14,6 +42,9 @@ export default function Home() {
   const [search, setSearch] = useState('');
   const navigate = useNavigate();
   const { setBank, answers } = useQuiz();
+
+  const savedProgress = useMemo(() => getSavedProgressInfo(), []);
+  const canRestore = hasSavedProgress();
 
   const stats = useMemo(() => {
     if (!selectedBank) return null;
@@ -56,10 +87,55 @@ export default function Home() {
     }
   };
 
+  const handleContinue = async () => {
+    setLoading(true);
+    try {
+      const saved = JSON.parse(localStorage.getItem(PROGRESS_KEY) || '{}');
+      if (!saved.bank || !saved.orderedQuestionIds) {
+        alert('没有找到保存的进度');
+        setLoading(false);
+        return;
+      }
+      const questions = await loadQuestions(saved.bank.fileName);
+      const qMap = new Map(questions.map((q) => [q.questionId, q]));
+      const ordered = saved.orderedQuestionIds
+        .map((id: string) => qMap.get(id))
+        .filter(Boolean);
+      if (ordered.length === 0) {
+        alert('保存的进度已失效');
+        setLoading(false);
+        return;
+      }
+      setBank(saved.bank, questions, ordered, saved.mode || 'sequential');
+      // Restore answers
+      navigate('/practice');
+    } catch {
+      alert('恢复进度失败');
+    } finally {
+      setLoading(false);
+    }
+  };
+
   return (
     <div className="home">
       <div className="home-content">
         <Title level={3} style={{ marginBottom: 24 }}>题库练习</Title>
+
+        {canRestore && savedProgress && (
+          <Card size="small" className="home-card" style={{ marginBottom: 16, borderColor: '#d9d9d9' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <div>
+                <Text strong>{savedProgress.bankName}</Text>
+                <Text type="secondary" style={{ display: 'block', fontSize: 12 }}>
+                  已答 {savedProgress.answered}/{savedProgress.total} 题
+                </Text>
+              </div>
+              <Button type="primary" size="small" loading={loading} onClick={handleContinue}>
+                继续练习
+              </Button>
+            </div>
+          </Card>
+        )}
 
         <Card title="选择题库" className="home-card">
           <Radio.Group

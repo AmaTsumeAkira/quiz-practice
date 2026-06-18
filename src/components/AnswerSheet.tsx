@@ -34,13 +34,20 @@ export default function AnswerSheet({ questions, answers, currentIndex, onSelect
           );
         })}
       </div>
-      {showResult && (
-        <div className="sheet-legend">
-          <span className="legend-item"><span className="dot correct" /> 正确</span>
-          <span className="legend-item"><span className="dot wrong" /> 错误</span>
-          <span className="legend-item"><span className="dot answered" /> 已答</span>
-        </div>
-      )}
+      <div className="sheet-legend">
+        {showResult ? (
+          <>
+            <span className="legend-item"><span className="dot correct" /> 正确</span>
+            <span className="legend-item"><span className="dot wrong" /> 错误</span>
+            <span className="legend-item"><span className="dot unanswered" /> 未答</span>
+          </>
+        ) : (
+          <>
+            <span className="legend-item"><span className="dot answered" /> 已答</span>
+            <span className="legend-item"><span className="dot unanswered" /> 未答</span>
+          </>
+        )}
+      </div>
     </div>
   );
 }
